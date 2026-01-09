@@ -107,11 +107,13 @@ function ActionButton({
   label,
   variant,
   colors,
+  icon,
   onPress,
 }: {
   label: string;
   variant: 'primary' | 'secondary';
   colors: typeof Colors.light;
+  icon?: keyof typeof Ionicons.glyphMap;
   onPress?: () => void;
 }) {
   const isPrimary = variant === 'primary';
@@ -126,14 +128,24 @@ function ActionButton({
           : { backgroundColor: colors.backgroundSecondary, borderWidth: 1, borderColor: colors.border },
       ]}
     >
-      <Text
-        style={[
-          styles.actionButtonText,
-          { color: isPrimary ? '#FFFFFF' : colors.text },
-        ]}
-      >
-        {label}
-      </Text>
+      <View style={styles.actionButtonContent}>
+        <Text
+          style={[
+            styles.actionButtonText,
+            { color: isPrimary ? '#FFFFFF' : colors.text },
+          ]}
+        >
+          {label}
+        </Text>
+        {icon && (
+          <Ionicons
+            name={icon}
+            size={16}
+            color={isPrimary ? '#FFFFFF' : colors.text}
+            style={styles.actionButtonIcon}
+          />
+        )}
+      </View>
     </Pressable>
   );
 }
@@ -207,7 +219,7 @@ export default function BookmarkScreen() {
 
         {/* Actions */}
         <Animated.View entering={FadeInDown.delay(300).duration(400)} style={styles.actionsContainer}>
-          <ActionButton label="Play Episode" variant="primary" colors={colors} />
+          <ActionButton label="Play Episode" variant="primary" colors={colors} icon="open-outline" />
           <ActionButton label="Add to Queue" variant="secondary" colors={colors} />
         </Animated.View>
 
@@ -368,8 +380,15 @@ const styles = StyleSheet.create({
     borderRadius: Radius.lg,
     alignItems: 'center',
   },
+  actionButtonContent: {
+    flexDirection: 'row',
+    alignItems: 'center',
+  },
   actionButtonText: {
     ...Typography.labelLarge,
+  },
+  actionButtonIcon: {
+    marginLeft: Spacing.xs,
   },
 
   // Description
