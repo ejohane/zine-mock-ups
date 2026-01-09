@@ -1,57 +1,55 @@
 import { Surface } from 'heroui-native';
-import { View, Text, StyleSheet, FlatList, Pressable } from 'react-native';
+import { useRouter } from 'expo-router';
+import { View, Text, StyleSheet, FlatList, Pressable, Image } from 'react-native';
+import { useMemo } from 'react';
 import Animated, { FadeInDown } from 'react-native-reanimated';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { Colors, Typography, Spacing, Radius } from '@/constants/theme';
 import { useColorScheme } from '@/hooks/use-color-scheme';
 
+import sharpTech from '@/fixtures/spotify-sharp-tech-show.json';
+import founders from '@/fixtures/spotify-founders-show.json';
+import jre from '@/fixtures/spotify-jre-show.json';
+import modernWisdom from '@/fixtures/spotify-modern-wisdom-show.json';
+import dithering from '@/fixtures/spotify-dithering-show.json';
+
+const fixturesData = [
+  { id: 'sharp-tech', data: sharpTech },
+  { id: 'founders', data: founders },
+  { id: 'jre', data: jre },
+  { id: 'modern-wisdom', data: modernWisdom },
+  { id: 'dithering', data: dithering },
+];
+
 // =============================================================================
-// Mock Data
+// Helpers
 // =============================================================================
 
-const mockInboxItems = [
-  {
-    id: '1',
-    title: 'Understanding TypeScript Generics',
-    creator: 'Matt Pocock',
-    source: 'YouTube',
-    type: 'video',
-    duration: '15:32',
-  },
-  {
-    id: '2',
-    title: 'The State of JavaScript 2024',
-    creator: 'Syntax.fm',
-    source: 'Spotify',
-    type: 'podcast',
-    duration: '1:23:45',
-  },
-  {
-    id: '3',
-    title: 'Why React Server Components Matter',
-    creator: 'Dan Abramov',
-    source: 'Substack',
-    type: 'article',
-    readTime: '8 min read',
-  },
-  {
-    id: '4',
-    title: 'Building a Design System from Scratch',
-    creator: 'Figma',
-    source: 'YouTube',
-    type: 'video',
-    duration: '42:18',
-  },
-  {
-    id: '5',
-    title: 'The Future of Mobile Development',
-    creator: 'React Native Radio',
-    source: 'Spotify',
-    type: 'podcast',
-    duration: '58:12',
-  },
-];
+function formatDuration(ms: number): string {
+  const totalSeconds = Math.floor(ms / 1000);
+  const hours = Math.floor(totalSeconds / 3600);
+  const minutes = Math.floor((totalSeconds % 3600) / 60);
+
+  if (hours > 0) {
+    return `${hours}h ${minutes}m`;
+  }
+  return `${minutes} min`;
+}
+
+// =============================================================================
+// Types
+// =============================================================================
+
+interface InboxItemData {
+  id: string;
+  fixtureId: string;
+  title: string;
+  showName: string;
+  publisher: string;
+  imageUrl: string;
+  duration: string;
+}
 
 // =============================================================================
 // Components
@@ -61,42 +59,32 @@ function InboxItem({
   item,
   colors,
   index,
+  onPress,
 }: {
-  item: (typeof mockInboxItems)[0];
+  item: InboxItemData;
   colors: typeof Colors.light;
   index: number;
+  onPress: () => void;
 }) {
-  const typeColors = {
-    video: '#EF4444',
-    podcast: '#8B5CF6',
-    article: '#3B82F6',
-  };
-
   return (
     <Animated.View entering={FadeInDown.delay(index * 50).duration(300)}>
       <Pressable
+        onPress={onPress}
         style={[styles.inboxItem, { backgroundColor: colors.backgroundSecondary }]}
       >
-        <View
-          style={[
-            styles.itemTypeIcon,
-            { backgroundColor: typeColors[item.type as keyof typeof typeColors] },
-          ]}
-        >
-          <Text style={styles.itemTypeText}>
-            {item.type === 'video' ? 'V' : item.type === 'podcast' ? 'P' : 'A'}
-          </Text>
-        </View>
-        <View style={styles.itemContent}>
-          <Text style={[styles.itemTitle, { color: colors.text }]} numberOfLines={2}>
-            {item.title}
-          </Text>
-          <Text style={[styles.itemMeta, { color: colors.textSecondary }]}>
-            {item.creator} · {item.source}
-          </Text>
-          <Text style={[styles.itemDuration, { color: colors.textTertiary }]}>
-            {item.duration || item.readTime}
-          </Text>
+        <View style={styles.itemHeader}>
+          <Image source={{ uri: item.imageUrl }} style={styles.itemImage} />
+          <View style={styles.itemContent}>
+            <Text style={[styles.itemShowName, { color: colors.textSecondary }]} numberOfLines={1}>
+              {item.showName}
+            </Text>
+            <Text style={[styles.itemTitle, { color: colors.text }]} numberOfLines={2}>
+              {item.title}
+            </Text>
+            <Text style={[styles.itemMeta, { color: colors.textTertiary }]}>
+              {item.publisher} · {item.duration}
+            </Text>
+          </View>
         </View>
         <View style={styles.itemActions}>
           <Pressable
@@ -124,9 +112,32 @@ function InboxItem({
 export default function InboxScreen() {
   const colorScheme = useColorScheme();
   const colors = Colors[colorScheme ?? 'light'];
+  const router = useRouter();
 
-  const renderItem = ({ item, index }: { item: (typeof mockInboxItems)[0]; index: number }) => (
-    <InboxItem item={item} colors={colors} index={index} />
+  const inboxItems = useMemo(() => {
+    return fixturesData
+      .map(({ id, data }) => {
+        const episode = data.episodes.items.find((ep: unknown) => ep !== null);
+        if (!episode) return null;
+        return {
+          id,
+          fixtureId: id,
+          title: episode.name,
+          showName: data.name,
+          publisher: data.publisher,
+          imageUrl: data.images[0]?.url ?? '',
+          duration: formatDuration(episode.duration_ms),
+        };
+      })
+      .filter((item): item is InboxItemData => item !== null);
+  }, []);
+
+  const handleItemPress = (fixtureId: string) => {
+    router.push({ pathname: '/bookmark', params: { fixtureId } });
+  };
+
+  const renderItem = ({ item, index }: { item: InboxItemData; index: number }) => (
+    <InboxItem item={item} colors={colors} index={index} onPress={() => handleItemPress(item.fixtureId)} />
   );
 
   return (
@@ -136,13 +147,13 @@ export default function InboxScreen() {
         <View style={styles.header}>
           <Text style={[styles.headerTitle, { color: colors.text }]}>Inbox</Text>
           <Text style={[styles.headerSubtitle, { color: colors.textSecondary }]}>
-            {mockInboxItems.length} items to triage
+            {inboxItems.length} items to triage
           </Text>
         </View>
 
         {/* Content */}
         <FlatList
-          data={mockInboxItems}
+          data={inboxItems}
           renderItem={renderItem}
           keyExtractor={(item) => item.id}
           contentContainerStyle={styles.listContent}
@@ -192,20 +203,23 @@ const styles = StyleSheet.create({
     padding: Spacing.lg,
     borderRadius: Radius.lg,
   },
-  itemTypeIcon: {
-    width: 40,
-    height: 40,
-    borderRadius: Radius.md,
-    alignItems: 'center',
-    justifyContent: 'center',
-    marginBottom: Spacing.md,
+  itemHeader: {
+    flexDirection: 'row',
+    marginBottom: Spacing.lg,
   },
-  itemTypeText: {
-    color: '#FFFFFF',
-    ...Typography.titleMedium,
+  itemImage: {
+    width: 80,
+    height: 80,
+    borderRadius: Radius.md,
+    marginRight: Spacing.md,
   },
   itemContent: {
-    marginBottom: Spacing.lg,
+    flex: 1,
+    justifyContent: 'center',
+  },
+  itemShowName: {
+    ...Typography.labelSmall,
+    marginBottom: Spacing.xs,
   },
   itemTitle: {
     ...Typography.titleMedium,
@@ -213,10 +227,6 @@ const styles = StyleSheet.create({
   },
   itemMeta: {
     ...Typography.bodySmall,
-    marginBottom: Spacing.xs,
-  },
-  itemDuration: {
-    ...Typography.labelSmall,
   },
 
   // Actions

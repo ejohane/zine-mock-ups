@@ -6,66 +6,66 @@
 
 import { Platform } from 'react-native';
 
-// Brand colors
+// Brand colors - Monotone palette
 const brand = {
-  primary: '#6366F1', // Indigo - main accent
-  primaryLight: '#818CF8',
-  primaryDark: '#4F46E5',
-  secondary: '#EC4899', // Pink - for highlights
-  secondaryLight: '#F472B6',
+  primary: '#1A1A1A', // Near black - main accent
+  primaryLight: '#404040',
+  primaryDark: '#000000',
+  secondary: '#6B6B6B', // Medium gray - for highlights
+  secondaryLight: '#8A8A8A',
 };
 
-// Semantic colors
+// Semantic colors - Muted monotone variants
 const semantic = {
-  success: '#10B981',
-  warning: '#F59E0B',
-  error: '#EF4444',
-  info: '#3B82F6',
+  success: '#4A4A4A',
+  warning: '#5A5A5A',
+  error: '#2A2A2A',
+  info: '#6A6A6A',
 };
 
-// Content type colors (for visual categorization)
+// Content type colors (for visual categorization) - Grayscale
 export const ContentColors = {
-  podcast: '#8B5CF6', // Purple
-  video: '#EF4444', // Red (YouTube-inspired)
-  article: '#3B82F6', // Blue
-  post: '#14B8A6', // Teal
+  podcast: '#3A3A3A',
+  video: '#1A1A1A',
+  article: '#5A5A5A',
+  post: '#4A4A4A',
 };
 
-// Provider colors
+// Provider colors - Grayscale
 export const ProviderColors = {
-  youtube: '#FF0000',
-  spotify: '#1DB954',
-  substack: '#FF6719',
+  youtube: '#2A2A2A',
+  spotify: '#1A1A1A',
+  substack: '#3A3A3A',
 };
 
 export const Colors = {
   light: {
     // Core
-    text: '#0F172A',
-    textSecondary: '#64748B',
-    textTertiary: '#94A3B8',
+    text: '#000000',
+    textSecondary: '#4A4A4A',
+    textTertiary: '#8A8A8A',
     background: '#FFFFFF',
-    backgroundSecondary: '#F8FAFC',
-    backgroundTertiary: '#F1F5F9',
+    backgroundSecondary: '#FAFAFA',
+    backgroundTertiary: '#F5F5F5',
 
     // Interactive
     tint: brand.primary,
     tintLight: brand.primaryLight,
-    icon: '#64748B',
-    iconMuted: '#CBD5E1',
+    icon: '#4A4A4A',
+    iconMuted: '#C0C0C0',
 
     // Tab bar
-    tabIconDefault: '#94A3B8',
+    tabIconDefault: '#9A9A9A',
     tabIconSelected: brand.primary,
 
     // Cards & surfaces
     card: '#FFFFFF',
-    cardHover: '#F8FAFC',
-    border: '#E2E8F0',
-    borderLight: '#F1F5F9',
+    cardHover: '#FAFAFA',
+    border: '#E0E0E0',
+    borderLight: '#F0F0F0',
 
     // Overlays
-    overlay: 'rgba(15, 23, 42, 0.5)',
+    overlay: 'rgba(0, 0, 0, 0.5)',
     scrim: 'rgba(255, 255, 255, 0.8)',
 
     // Brand
@@ -74,32 +74,32 @@ export const Colors = {
   },
   dark: {
     // Core
-    text: '#F8FAFC',
-    textSecondary: '#94A3B8',
-    textTertiary: '#64748B',
-    background: '#0F172A',
-    backgroundSecondary: '#1E293B',
-    backgroundTertiary: '#334155',
+    text: '#FFFFFF',
+    textSecondary: '#A0A0A0',
+    textTertiary: '#6A6A6A',
+    background: '#000000',
+    backgroundSecondary: '#1A1A1A',
+    backgroundTertiary: '#2A2A2A',
 
     // Interactive
-    tint: brand.primaryLight,
-    tintLight: brand.primary,
-    icon: '#94A3B8',
-    iconMuted: '#475569',
+    tint: '#FFFFFF',
+    tintLight: '#E0E0E0',
+    icon: '#A0A0A0',
+    iconMuted: '#4A4A4A',
 
     // Tab bar
-    tabIconDefault: '#64748B',
-    tabIconSelected: brand.primaryLight,
+    tabIconDefault: '#6A6A6A',
+    tabIconSelected: '#FFFFFF',
 
     // Cards & surfaces
-    card: '#1E293B',
-    cardHover: '#334155',
-    border: '#334155',
-    borderLight: '#1E293B',
+    card: '#1A1A1A',
+    cardHover: '#2A2A2A',
+    border: '#2A2A2A',
+    borderLight: '#1A1A1A',
 
     // Overlays
     overlay: 'rgba(0, 0, 0, 0.7)',
-    scrim: 'rgba(15, 23, 42, 0.8)',
+    scrim: 'rgba(0, 0, 0, 0.8)',
 
     // Brand
     ...brand,

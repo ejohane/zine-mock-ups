@@ -1,10 +1,11 @@
 import { Surface } from 'heroui-native';
 import { useMemo } from 'react';
-import { View, Text, ScrollView, StyleSheet } from 'react-native';
+import { View, Text, ScrollView, StyleSheet, Pressable } from 'react-native';
 import Animated, { FadeInDown } from 'react-native-reanimated';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { Colors, Typography, Spacing, Radius } from '@/constants/theme';
+import { useTheme, ThemeMode } from '@/contexts/theme-context';
 import { useColorScheme } from '@/hooks/use-color-scheme';
 
 // =============================================================================
@@ -123,6 +124,43 @@ function RecentItems({ colors }: { colors: typeof Colors.light }) {
   );
 }
 
+const themeModes: { mode: ThemeMode; label: string }[] = [
+  { mode: 'light', label: 'Light' },
+  { mode: 'dark', label: 'Dark' },
+  { mode: 'system', label: 'System' },
+];
+
+function ThemeToggle({ colors }: { colors: typeof Colors.light }) {
+  const { mode, setMode } = useTheme();
+
+  return (
+    <Animated.View entering={FadeInDown.delay(400).duration(400)}>
+      <Text style={[styles.sectionTitle, { color: colors.text }]}>Appearance</Text>
+      <View style={[styles.themeToggleContainer, { backgroundColor: colors.backgroundSecondary }]}>
+        {themeModes.map((item) => (
+          <Pressable
+            key={item.mode}
+            onPress={() => setMode(item.mode)}
+            style={[
+              styles.themeToggleButton,
+              mode === item.mode && { backgroundColor: colors.primary },
+            ]}
+          >
+            <Text
+              style={[
+                styles.themeToggleText,
+                { color: mode === item.mode ? '#FFFFFF' : colors.textSecondary },
+              ]}
+            >
+              {item.label}
+            </Text>
+          </Pressable>
+        ))}
+      </View>
+    </Animated.View>
+  );
+}
+
 // =============================================================================
 // Main Screen
 // =============================================================================
@@ -159,6 +197,11 @@ export default function HomeScreen() {
           {/* Recent Items */}
           <View style={styles.section}>
             <RecentItems colors={colors} />
+          </View>
+
+          {/* Theme Toggle */}
+          <View style={styles.section}>
+            <ThemeToggle colors={colors} />
           </View>
 
           {/* Bottom spacing for tab bar */}
@@ -292,5 +335,24 @@ const styles = StyleSheet.create({
   // Bottom spacer
   bottomSpacer: {
     height: 40,
+  },
+
+  // Theme Toggle
+  themeToggleContainer: {
+    flexDirection: 'row',
+    borderRadius: Radius.lg,
+    padding: Spacing.xs,
+    gap: Spacing.xs,
+  },
+  themeToggleButton: {
+    flex: 1,
+    paddingVertical: Spacing.md,
+    paddingHorizontal: Spacing.lg,
+    borderRadius: Radius.md,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  themeToggleText: {
+    ...Typography.labelLarge,
   },
 });

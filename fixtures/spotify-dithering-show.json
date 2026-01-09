@@ -1,0 +1,2435 @@
+{
+  "available_markets": [
+    "AR",
+    "AU",
+    "AT",
+    "BE",
+    "BO",
+    "BR",
+    "BG",
+    "CA",
+    "CL",
+    "CO",
+    "CR",
+    "CY",
+    "CZ",
+    "DK",
+    "DO",
+    "DE",
+    "EC",
+    "EE",
+    "SV",
+    "FI",
+    "FR",
+    "GR",
+    "GT",
+    "HN",
+    "HK",
+    "HU",
+    "IS",
+    "IE",
+    "IT",
+    "LV",
+    "LT",
+    "LU",
+    "MY",
+    "MT",
+    "MX",
+    "NL",
+    "NZ",
+    "NI",
+    "NO",
+    "PA",
+    "PY",
+    "PE",
+    "PH",
+    "PL",
+    "PT",
+    "SG",
+    "SK",
+    "ES",
+    "SE",
+    "CH",
+    "TW",
+    "TR",
+    "UY",
+    "US",
+    "GB",
+    "AD",
+    "LI",
+    "MC",
+    "ID",
+    "JP",
+    "TH",
+    "VN",
+    "RO",
+    "IL",
+    "ZA",
+    "SA",
+    "AE",
+    "BH",
+    "QA",
+    "OM",
+    "KW",
+    "EG",
+    "MA",
+    "DZ",
+    "TN",
+    "LB",
+    "JO",
+    "PS",
+    "IN",
+    "BY",
+    "KZ",
+    "MD",
+    "UA",
+    "AL",
+    "BA",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "KR",
+    "BD",
+    "PK",
+    "LK",
+    "GH",
+    "KE",
+    "NG",
+    "TZ",
+    "UG",
+    "AG",
+    "AM",
+    "BS",
+    "BB",
+    "BZ",
+    "BT",
+    "BW",
+    "BF",
+    "CV",
+    "CW",
+    "DM",
+    "FJ",
+    "GM",
+    "GE",
+    "GD",
+    "GW",
+    "GY",
+    "HT",
+    "JM",
+    "KI",
+    "LS",
+    "LR",
+    "MW",
+    "MV",
+    "ML",
+    "MH",
+    "FM",
+    "NA",
+    "NR",
+    "NE",
+    "PW",
+    "PG",
+    "PR",
+    "WS",
+    "SM",
+    "ST",
+    "SN",
+    "SC",
+    "SL",
+    "SB",
+    "KN",
+    "LC",
+    "VC",
+    "SR",
+    "TL",
+    "TO",
+    "TT",
+    "TV",
+    "VU",
+    "AZ",
+    "BN",
+    "BI",
+    "KH",
+    "CM",
+    "TD",
+    "KM",
+    "GQ",
+    "SZ",
+    "GA",
+    "GN",
+    "KG",
+    "LA",
+    "MO",
+    "MR",
+    "MN",
+    "NP",
+    "RW",
+    "TG",
+    "UZ",
+    "ZW",
+    "BJ",
+    "MG",
+    "MU",
+    "MZ",
+    "AO",
+    "CI",
+    "DJ",
+    "ZM",
+    "CD",
+    "CG",
+    "IQ",
+    "LY",
+    "TJ",
+    "VE",
+    "ET",
+    "XK"
+  ],
+  "copyrights": [],
+  "description": "A fun, smart podcast from Ben Thompson and John Gruber. Two episodes per week, 15 minutes per episode. Not a minute less, not a minute more.",
+  "html_description": "To play this content, <a href=\"https://content-access.spotify.com/link/68Z2ONm5oQG5FC5CDAfOCX?spotifyShowUri=spotify%3Ashow%3A2qrjQTO7wFlkAs6juz1w1W\">link your Dithering or Stratechery Plus account</a>.  <br/>A fun, smart podcast from Ben Thompson and John Gruber. Two episodes per week, 15 minutes per episode. Not a minute less, not a minute more.",
+  "explicit": false,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/show/2qrjQTO7wFlkAs6juz1w1W"
+  },
+  "href": "https://api.spotify.com/v1/shows/2qrjQTO7wFlkAs6juz1w1W?locale=en-US%2Cen%3Bq%3D0.9",
+  "id": "2qrjQTO7wFlkAs6juz1w1W",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+      "width": 64
+    }
+  ],
+  "is_externally_hosted": false,
+  "languages": [
+    "en-US"
+  ],
+  "media_type": "audio",
+  "name": "Dithering",
+  "publisher": "Ben Thompson and John Gruber",
+  "type": "show",
+  "uri": "spotify:show:2qrjQTO7wFlkAs6juz1w1W",
+  "total_episodes": 300,
+  "episodes": {
+    "href": "https://api.spotify.com/v1/shows/2qrjQTO7wFlkAs6juz1w1W/episodes?offset=0&limit=50&locale=en-US,en;q%3D0.9",
+    "limit": 50,
+    "next": "https://api.spotify.com/v1/shows/2qrjQTO7wFlkAs6juz1w1W/episodes?offset=50&limit=50&locale=en-US,en;q%3D0.9",
+    "offset": 0,
+    "previous": null,
+    "total": 300,
+    "items": [
+      {
+        "audio_preview_url": null,
+        "description": "macOS Tahoe’s misguided menu icons.",
+        "html_description": "<br/><p>John wrote about macOS Tahoe’s problematic menu icons <a href=\"https://daringfireball.net/linked/2026/01/06/howard-oakley-on-the-macos-26-tahoe-ui\" rel=\"nofollow\">here</a>, <a href=\"https://daringfireball.net/linked/2026/01/06/nielsen-icons-in-menus\" rel=\"nofollow\">here</a>, and <a href=\"https://daringfireball.net/linked/2026/01/05/hard-to-justify-tahoe-icons\" rel=\"nofollow\">here</a>.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/7Lr8NmbYmJu4ZfZEIgbx7u"
+        },
+        "href": "https://api.spotify.com/v1/episodes/7Lr8NmbYmJu4ZfZEIgbx7u",
+        "id": "7Lr8NmbYmJu4ZfZEIgbx7u",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Tahoe Icons",
+        "release_date": "2026-01-09",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:7Lr8NmbYmJu4ZfZEIgbx7u"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "A CES Preview and why Ben believes in humans in an AI world.",
+        "html_description": "<br/><p>Ben wrote <a href=\"https://stratechery.com/2026/ai-and-the-human-condition/\" rel=\"nofollow\">AI and the Human Condition</a> on Stratechery.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/0DeGUdjkWMaaNisBXkxP4k"
+        },
+        "href": "https://api.spotify.com/v1/episodes/0DeGUdjkWMaaNisBXkxP4k",
+        "id": "0DeGUdjkWMaaNisBXkxP4k",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "CES and Humanity",
+        "release_date": "2026-01-06",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:0DeGUdjkWMaaNisBXkxP4k"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "Ben and John review the top apps in the App Store for 2025.",
+        "html_description": "<br/><p>This is the last Dithering of 2025; we will be back on Tuesday, January 6, 2026.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/6ZR0OXgVhS3YRZZh4Ehbct"
+        },
+        "href": "https://api.spotify.com/v1/episodes/6ZR0OXgVhS3YRZZh4Ehbct",
+        "id": "6ZR0OXgVhS3YRZZh4Ehbct",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "2025’s Top Apps",
+        "release_date": "2025-12-19",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:6ZR0OXgVhS3YRZZh4Ehbct"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "Amazon wasn’t allowed to buy Roomba, and now a Chinese company owns them. Plus, more on fonts.",
+        "html_description": "<br/><p>John wrote about the Roomba fiasco on <a href=\"https://daringfireball.net/linked/2025/12/15/roomba-maker-irobot-declares-bankruptcy\" rel=\"nofollow\">Daring Fireball</a>.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/5LG1WqwPLYbLFlPzT9nnW1"
+        },
+        "href": "https://api.spotify.com/v1/episodes/5LG1WqwPLYbLFlPzT9nnW1",
+        "id": "5LG1WqwPLYbLFlPzT9nnW1",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Roomba and Regulation",
+        "release_date": "2025-12-16",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 861000
+        },
+        "type": "episode",
+        "uri": "spotify:episode:5LG1WqwPLYbLFlPzT9nnW1"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "The State Department is changing fonts, and John has takes. Plus, Disney makes a deal with OpenAI.",
+        "html_description": "<br/><p>John published the State Department memo about changing the font back to Times New Roman <a href=\"https://daringfireball.net/misc/2025/12/state-department-return-to-tradition.text\" rel=\"nofollow\">here</a>, and wrote about the change on <a href=\"https://daringfireball.net/2025/12/full_text_of_marco_rubio_state_dept_directive_times_new_roman\" rel=\"nofollow\">Daring Fireball</a>. </p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/5PGBdMxVE9uejFhquP5oS3"
+        },
+        "href": "https://api.spotify.com/v1/episodes/5PGBdMxVE9uejFhquP5oS3",
+        "id": "5PGBdMxVE9uejFhquP5oS3",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "State Department Serifs",
+        "release_date": "2025-12-12",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:5PGBdMxVE9uejFhquP5oS3"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "Apple executive rumors continue, and Netflix buys Warner Bros.",
+        "html_description": "<br/><p>Mark Gurman reported that <a href=\"https://www.bloomberg.com/news/articles/2025-12-08/apple-chip-chief-tells-staff-he-s-not-leaving-anytime-soon\" rel=\"nofollow\">Johny Srouji told his staff</a> that <a href=\"https://www.bloomberg.com/news/articles/2025-12-06/apple-rocked-by-executive-departures-with-johny-srouji-at-risk-of-leaving-next\" rel=\"nofollow\">his weekend report was not true</a>. Then, Ben wrote about <a href=\"https://stratechery.com/2025/netflix-and-the-hollywood-end-game/\" rel=\"nofollow\">Netflix and the Hollywood End Game</a>.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/5l7RjFsBrD90mBdHo3Vgxy"
+        },
+        "href": "https://api.spotify.com/v1/episodes/5l7RjFsBrD90mBdHo3Vgxy",
+        "id": "5l7RjFsBrD90mBdHo3Vgxy",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Netflix Buys Warner Bros.",
+        "release_date": "2025-12-09",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:5l7RjFsBrD90mBdHo3Vgxy"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "The head of Apple software design is leaving Apple for Meta, and John couldn’t be happier.",
+        "html_description": "<br/><p>John wrote about Alan Dye leaving Apple on <a href=\"https://daringfireball.net/2025/12/bad_dye_job\" rel=\"nofollow\">Daring Fireball</a>.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/29REzKs3qBUEju59bPHVoS"
+        },
+        "href": "https://api.spotify.com/v1/episodes/29REzKs3qBUEju59bPHVoS",
+        "id": "29REzKs3qBUEju59bPHVoS",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Alan Dye Leaves Apple",
+        "release_date": "2025-12-05",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:29REzKs3qBUEju59bPHVoS"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "Google is moving both with models and with chips.",
+        "html_description": "<br/><p>Ben wrote about Google, Nvidia, and OpenAI on <a href=\"https://stratechery.com/2025/google-nvidia-and-openai/\" rel=\"nofollow\">Stratechery</a>.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/0jvvJhaHCYg4oX2zlDnZyi"
+        },
+        "href": "https://api.spotify.com/v1/episodes/0jvvJhaHCYg4oX2zlDnZyi",
+        "id": "0jvvJhaHCYg4oX2zlDnZyi",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Google Looms",
+        "release_date": "2025-12-02",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:0jvvJhaHCYg4oX2zlDnZyi"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "It may be a long wait for the iPhone Air and maybe for Tim Cook’s retirement, too.",
+        "html_description": "<br/><p>John wrote about Tim Cook&#39;s retirement speculation on <a href=\"https://daringfireball.net/linked/2025/11/15/ft-apple-tim-cook-succession\" rel=\"nofollow\">Daring Fireball</a>.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/1U3unBvqSTQGMlkoZHNo3B"
+        },
+        "href": "https://api.spotify.com/v1/episodes/1U3unBvqSTQGMlkoZHNo3B",
+        "id": "1U3unBvqSTQGMlkoZHNo3B",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Futures: iPhone Air and Tim Cook",
+        "release_date": "2025-11-25",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:1U3unBvqSTQGMlkoZHNo3B"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "Cloudflare and other centralized services are a reality of the modern Internet. Plus, Gemini 3",
+        "html_description": "<br/><p>John wrote about the Cloudflare outage on Daring Fireball <a href=\"https://daringfireball.net/linked/2025/11/19/cloudflare-prince-portmortem\" rel=\"nofollow\">here</a> and <a href=\"https://daringfireball.net/linked/2025/11/19/cloudflare-uptime\" rel=\"nofollow\">here</a>. Ben wrote about the Gemini 3 launch <a href=\"https://stratechery.com/2025/gemini-3-winners-and-losers-integration-and-the-enterprise/\" rel=\"nofollow\">on Stratechery</a>.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/430yKOItBuE0g8qwvdj5vf"
+        },
+        "href": "https://api.spotify.com/v1/episodes/430yKOItBuE0g8qwvdj5vf",
+        "id": "430yKOItBuE0g8qwvdj5vf",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Cloudflare and the Tragedy of the Commons",
+        "release_date": "2025-11-21",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:430yKOItBuE0g8qwvdj5vf"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "Why ChatGPT's app is a moat.",
+        "html_description": "<br/><p>Ben wrote about ChatGPT group chats on <a href=\"https://stratechery.com/2025/chatgpt-group-chats-meta-and-the-encryption-trade-off-network-effects-and-ad-models/\" rel=\"nofollow\">Stratechery</a>.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/1k2mkRaJvTm1ATm0uaLJDH"
+        },
+        "href": "https://api.spotify.com/v1/episodes/1k2mkRaJvTm1ATm0uaLJDH",
+        "id": "1k2mkRaJvTm1ATm0uaLJDH",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "AI in the AI App",
+        "release_date": "2025-11-18",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:1k2mkRaJvTm1ATm0uaLJDH"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "Defending the iPhone Pocket, ChatGPT Prompts, and why removing user control is a good thing.",
+        "html_description": "<br/><p>John wrote about the iPhone Pocket <a href=\"https://daringfireball.net/linked/2025/11/11/iphone-pocket\" rel=\"nofollow\">here</a>, <a href=\"https://daringfireball.net/linked/2025/11/11/ipod-socks-iphone-pocket\" rel=\"nofollow\">here</a>, <a href=\"https://daringfireball.net/linked/2025/11/12/999-nos-for-every-yes\" rel=\"nofollow\">here</a>, and <a href=\"https://daringfireball.net/linked/2025/11/12/issey-miyake-sony-uniforms\" rel=\"nofollow\">here</a>; and about ChatGPT personalities <a href=\"https://daringfireball.net/2025/11/chatgpt_5-1_with_renamed_and_new_personalities\" rel=\"nofollow\">here</a>.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/1ZjQoDIFONhyIE9DfC8mZ7"
+        },
+        "href": "https://api.spotify.com/v1/episodes/1ZjQoDIFONhyIE9DfC8mZ7",
+        "id": "1ZjQoDIFONhyIE9DfC8mZ7",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "iPhone Pocket and ChatGPT Prompts",
+        "release_date": "2025-11-14",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 43000
+        },
+        "type": "episode",
+        "uri": "spotify:episode:1ZjQoDIFONhyIE9DfC8mZ7"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "Ben has cold weather updates, and the EU kills an Apple Watch feature.",
+        "html_description": "<br/><p><br /></p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/4L83lQ19xm4PXDLk4OkO1v"
+        },
+        "href": "https://api.spotify.com/v1/episodes/4L83lQ19xm4PXDLk4OkO1v",
+        "id": "4L83lQ19xm4PXDLk4OkO1v",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Cold Weather and EU Regulations",
+        "release_date": "2025-11-11",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:4L83lQ19xm4PXDLk4OkO1v"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "More on Google Building a Gemini for Siri",
+        "html_description": "<br/><p>John wrote about the Apple and Google partnership on <a href=\"https://daringfireball.net/2025/11/apple_and_google_sitting_in_a_tree\" rel=\"nofollow\">Daring Fireball</a>.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/57gWia3lnRfAsdMPB3zdhX"
+        },
+        "href": "https://api.spotify.com/v1/episodes/57gWia3lnRfAsdMPB3zdhX",
+        "id": "57gWia3lnRfAsdMPB3zdhX",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Google and Apple Go Full Circle",
+        "release_date": "2025-11-07",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:57gWia3lnRfAsdMPB3zdhX"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "Is Google powering the new Siri?",
+        "html_description": "<br/><p>Mark Gurman&#39;s Bloomberg newsletter is <a href=\"https://www.bloomberg.com/news/newsletters/2025-11-02/apple-s-nearly-140-billion-quarter-when-ios-26-1-will-be-out-ipad-mini-revamp-mhhpy1ax\" rel=\"nofollow\">here</a>.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/7BCjwEytgFip1DMbqv1rWD"
+        },
+        "href": "https://api.spotify.com/v1/episodes/7BCjwEytgFip1DMbqv1rWD",
+        "id": "7BCjwEytgFip1DMbqv1rWD",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Google Siri",
+        "release_date": "2025-11-04",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:7BCjwEytgFip1DMbqv1rWD"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "Analyzing bubbles is hard, but their importance is increasingly clear.",
+        "html_description": "<br/><p>Ben&#39;s interview with Substrate founder James Proud is <a href=\"https://stratechery.com/2025/an-interview-with-substrate-ceo-james-proud-about-building-a-disruptive-foundry-in-america/\" rel=\"nofollow\">here</a>, and his interview with Byrne Hobart about bubbles is <a href=\"https://stratechery.com/2024/an-interview-with-byrne-hobart-about-bubbles-and-escaping-stagnation/\" rel=\"nofollow\">here</a>.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/7JeCLXw1sj4swqDdhWsB7Q"
+        },
+        "href": "https://api.spotify.com/v1/episodes/7JeCLXw1sj4swqDdhWsB7Q",
+        "id": "7JeCLXw1sj4swqDdhWsB7Q",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Bubble Dynamics",
+        "release_date": "2025-10-31",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:7JeCLXw1sj4swqDdhWsB7Q"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "Ben tries to buy tickets, and fails",
+        "html_description": "<br/><p>Ben tweeted about Ticketmaster <a href=\"https://x.com/benthompson/status/1982468824155754528\" rel=\"nofollow\">here</a>.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/06DsmvSFnLUyiDIeCdCvjz"
+        },
+        "href": "https://api.spotify.com/v1/episodes/06DsmvSFnLUyiDIeCdCvjz",
+        "id": "06DsmvSFnLUyiDIeCdCvjz",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Ticketmaster",
+        "release_date": "2025-10-28",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:06DsmvSFnLUyiDIeCdCvjz"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "Ben tries to order a Samsung headset, which highlights some of the Vision Pro's biggest problems.",
+        "html_description": "<br/><p>Ben wrote about <a href=\"https://stratechery.com/2024/the-apple-vision-pros-missing-apps/\" rel=\"nofollow\">The Apple Vision Pro&#39;s Missing Apps</a> in 2024.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/4pXL6I0WQCEEPBhQ0ONsAv"
+        },
+        "href": "https://api.spotify.com/v1/episodes/4pXL6I0WQCEEPBhQ0ONsAv",
+        "id": "4pXL6I0WQCEEPBhQ0ONsAv",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Samsung Galaxy XR",
+        "release_date": "2025-10-24",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:4pXL6I0WQCEEPBhQ0ONsAv"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "The F1-Apple TV is official, and confusing.",
+        "html_description": "<br/><p><br /></p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/5wEbwmPAuQj3LQ0CLW23Fi"
+        },
+        "href": "https://api.spotify.com/v1/episodes/5wEbwmPAuQj3LQ0CLW23Fi",
+        "id": "5wEbwmPAuQj3LQ0CLW23Fi",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "F1 on Apple TV",
+        "release_date": "2025-10-21",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:5wEbwmPAuQj3LQ0CLW23Fi"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "TiVo is dead, 1Password is good, and M5s are faster than M1s (but what about M4s).",
+        "html_description": "<br/><p>John wrote about <a href=\"https://daringfireball.net/linked/2025/10/15/tivo-stops-selling-dvrs\" rel=\"nofollow\">TiVo</a>, <a href=\"https://daringfireball.net/linked/2025/10/15/halo-fund-1password\" rel=\"nofollow\">1Password</a>, and <a href=\"https://daringfireball.net/2025/10/m5_chip_launches_with_macbook_pro_ipad_pro_vision_pro\" rel=\"nofollow\">M5 Macs</a>.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/5S2ixNQgPuhU5wN6OhcS1E"
+        },
+        "href": "https://api.spotify.com/v1/episodes/5S2ixNQgPuhU5wN6OhcS1E",
+        "id": "5S2ixNQgPuhU5wN6OhcS1E",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "TiVo, 1Password, M5",
+        "release_date": "2025-10-17",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:5S2ixNQgPuhU5wN6OhcS1E"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "Apple TV+ is no more, which is confusing and yet probably an improvement. Plus, the NBA on Vision Pro.",
+        "html_description": "<br/><p>John wrote about the Apple TV rename on <a href=\"https://daringfireball.net/linked/2025/10/13/apple-tv-minus\" rel=\"nofollow\">Daring Fireball</a>.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/0VDKikvzpKDMq2h73KCn5Q"
+        },
+        "href": "https://api.spotify.com/v1/episodes/0VDKikvzpKDMq2h73KCn5Q",
+        "id": "0VDKikvzpKDMq2h73KCn5Q",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Apple TV in Apple TV on Apple TV",
+        "release_date": "2025-10-14",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:0VDKikvzpKDMq2h73KCn5Q"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "John and Ben react to the Stratechery Interview with Sam Altman.",
+        "html_description": "<br/><p></p><p>Ben&#39;s interview with Sam Altman is on <a href=\"https://stratechery.com/2025/an-interview-with-openai-ceo-sam-altman-about-devday-and-the-ai-buildout/\" rel=\"nofollow\">Stratechery</a>. John&#39;s Sora video is <a href=\"https://sora.chatgpt.com/p/s_68e3cce81c648191a2dfc2f5734e725d\" rel=\"nofollow\">here</a> (and check out the remixes).</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/6PDJiyQPvpMoajKMZya8dV"
+        },
+        "href": "https://api.spotify.com/v1/episodes/6PDJiyQPvpMoajKMZya8dV",
+        "id": "6PDJiyQPvpMoajKMZya8dV",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "The Sam Altman Interview",
+        "release_date": "2025-10-10",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:6PDJiyQPvpMoajKMZya8dV"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "OpenAI is making a play to dominate the AI value chain.",
+        "html_description": "<br/><p>Ben wrote about Sora and potential Meta disruption on <a href=\"https://stratechery.com/2025/sora-ai-bicycles-and-meta-disruption/\" rel=\"nofollow\">Stratechery</a>.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/1EuiMDPYipBdaPRUnLuUug"
+        },
+        "href": "https://api.spotify.com/v1/episodes/1EuiMDPYipBdaPRUnLuUug",
+        "id": "1EuiMDPYipBdaPRUnLuUug",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Sora and the AI Value Chain",
+        "release_date": "2025-10-07",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:1EuiMDPYipBdaPRUnLuUug"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "Why Sora is soaring, while Meta is struggling.",
+        "html_description": "<br/><p><br /></p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/69MHBoEIFwR8ubsxVylprl"
+        },
+        "href": "https://api.spotify.com/v1/episodes/69MHBoEIFwR8ubsxVylprl",
+        "id": "69MHBoEIFwR8ubsxVylprl",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Sora",
+        "release_date": "2025-10-03",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:69MHBoEIFwR8ubsxVylprl"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "Recapping The Dithering Bowl, and Ben reviews his new iPhone.",
+        "html_description": "<br/><p><br /></p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/2LbTfDnW2tc4ddqKz0nrE4"
+        },
+        "href": "https://api.spotify.com/v1/episodes/2LbTfDnW2tc4ddqKz0nrE4",
+        "id": "2LbTfDnW2tc4ddqKz0nrE4",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Ben Buys an iPhone",
+        "release_date": "2025-09-30",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:2LbTfDnW2tc4ddqKz0nrE4"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "On the Apple Intel rumors, and Apple's efforts to break away from Qualcomm.",
+        "html_description": "<br/><p>John wrote about the Apple-Intel rumors on <a href=\"https://daringfireball.net/linked/2025/09/25/intel-apple-bloomberg-investment\" rel=\"nofollow\">Daring Fireball</a>. Ben wrote about <a href=\"https://stratechery.com/2025/nvidia-and-intel-tans-earnings-call-negotiation-deal-specifics/\" rel=\"nofollow\">Nvidia and Intel</a> and <a href=\"https://stratechery.com/2025/spacex-buys-spectrum-spectrum-specifics-spacexs-big-bet/\" rel=\"nofollow\">SpaceX</a>.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/0jp6DZ19PsNid6LFobUTb5"
+        },
+        "href": "https://api.spotify.com/v1/episodes/0jp6DZ19PsNid6LFobUTb5",
+        "id": "0jp6DZ19PsNid6LFobUTb5",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Apple, Intel, and Qualcomm",
+        "release_date": "2025-09-26",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:0jp6DZ19PsNid6LFobUTb5"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "John is back to talk about his experience with the iPhone Air.",
+        "html_description": "<br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/3bgeom66u7AN3ORR5Ix9vF"
+        },
+        "href": "https://api.spotify.com/v1/episodes/3bgeom66u7AN3ORR5Ix9vF",
+        "id": "3bgeom66u7AN3ORR5Ix9vF",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "The iPhone Air",
+        "release_date": "2025-09-23",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:3bgeom66u7AN3ORR5Ix9vF"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "Peter Kafka sits in and recounts his experience using the Meta Ray-Ban Display glasses.",
+        "html_description": "<br/><p>Peter Kafka wrote about his experience with the Meta Ray-Ban Display glasses on <a href=\"https://www.businessinsider.com/meta-ray-ban-display-glasses-lens-screen-photos-cost-review-2025-9\" rel=\"nofollow\">Business Insider</a>. Ben gave his take on <a href=\"https://stratechery.com/2025/meta-ray-ban-display-why-less-is-more-price-and-the-neural-band/\" rel=\"nofollow\">Stratechery</a>.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/7GlqcpuiY5V6T5SP7Cdfkz"
+        },
+        "href": "https://api.spotify.com/v1/episodes/7GlqcpuiY5V6T5SP7Cdfkz",
+        "id": "7GlqcpuiY5V6T5SP7Cdfkz",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Peter Kafka on Meta Ray-Ban Display",
+        "release_date": "2025-09-19",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:7GlqcpuiY5V6T5SP7Cdfkz"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "Oracle is going all-in on AI, while the company of Larry’s old friend Steve Jobs sits on the sidelines.",
+        "html_description": "<br/><p>Ben wrote about Oracle on <a href=\"https://stratechery.com/2025/oracle-pops-from-databases-to-ai-oracle-and-openai/\" rel=\"nofollow\">Stratechery</a>.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/66mp7nEsjc5SuheJ332Jpn"
+        },
+        "href": "https://api.spotify.com/v1/episodes/66mp7nEsjc5SuheJ332Jpn",
+        "id": "66mp7nEsjc5SuheJ332Jpn",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "What Would Larry Do?",
+        "release_date": "2025-09-16",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:66mp7nEsjc5SuheJ332Jpn"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "John's report from Cupertino about Apple's annual iPhone event.",
+        "html_description": "<br/><p>Ben wrote about the state of Apple and the new iPhones on <a href=\"https://stratechery.com/2025/iphones-17-and-the-sugar-water-trap/\" rel=\"nofollow\">Stratechery</a>.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/569azKsrw2CdQtxDIpVJIG"
+        },
+        "href": "https://api.spotify.com/v1/episodes/569azKsrw2CdQtxDIpVJIG",
+        "id": "569azKsrw2CdQtxDIpVJIG",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "The iPhone Event",
+        "release_date": "2025-09-12",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:569azKsrw2CdQtxDIpVJIG"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "Due to travel complications, there is no Dithering. We will be back on Friday (and possibly sooner).",
+        "html_description": "<br/><p><br /></p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 15098,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/164HFWUMIftYOtnc0c1KVe"
+        },
+        "href": "https://api.spotify.com/v1/episodes/164HFWUMIftYOtnc0c1KVe",
+        "id": "164HFWUMIftYOtnc0c1KVe",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "No Dithering",
+        "release_date": "2025-09-09",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:164HFWUMIftYOtnc0c1KVe"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "Google's money will continue to flow, to Apple benefit most of all.",
+        "html_description": "<br/><p>Ben wrote about the Google antitrust remedies decision on <a href=\"https://stratechery.com/2025/google-remedy-decision-reasonable-remedies-the-google-patronage-network/\" rel=\"nofollow\">Stratechery</a>.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/6u8niLJKr2wSr5MxnYOhyj"
+        },
+        "href": "https://api.spotify.com/v1/episodes/6u8niLJKr2wSr5MxnYOhyj",
+        "id": "6u8niLJKr2wSr5MxnYOhyj",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Google Money Flows",
+        "release_date": "2025-09-05",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:6u8niLJKr2wSr5MxnYOhyj"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "Why does Apple care more about consistency than beauty? Plus, the Cowboys and Packers make a trade.",
+        "html_description": "<br/><p>John wrote about <a href=\"https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons\" rel=\"nofollow\">MacOS 26 Tahoe’s Dead-Canary Utility App Icons</a>.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/7liLFnPp547aUOY5kBAHRC"
+        },
+        "href": "https://api.spotify.com/v1/episodes/7liLFnPp547aUOY5kBAHRC",
+        "id": "7liLFnPp547aUOY5kBAHRC",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Dead-Canary Icons",
+        "release_date": "2025-09-02",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 4000
+        },
+        "type": "episode",
+        "uri": "spotify:episode:7liLFnPp547aUOY5kBAHRC"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "The more that models try to think is the more money Nvidia thinks.",
+        "html_description": "<br/><p></p><p>Ben wrote about Nvidia’s earnings <a href=\"https://stratechery.com/2025/nvidia-earnings-moats-and-china-nvidia-vs-the-ai-labs/\" rel=\"nofollow\">on Stratechery</a>.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/3hcQu53kTEJPtayVlKbiIv"
+        },
+        "href": "https://api.spotify.com/v1/episodes/3hcQu53kTEJPtayVlKbiIv",
+        "id": "3hcQu53kTEJPtayVlKbiIv",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Nvidia Reasoning",
+        "release_date": "2025-08-29",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:3hcQu53kTEJPtayVlKbiIv"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "Elon Musk sues Apple because OpenAI is number one, and Grok isn't.",
+        "html_description": "<br/><p><br /></p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/7HHquI5xLaKRUfLUxWdBcn"
+        },
+        "href": "https://api.spotify.com/v1/episodes/7HHquI5xLaKRUfLUxWdBcn",
+        "id": "7HHquI5xLaKRUfLUxWdBcn",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Musk Sues Apple",
+        "release_date": "2025-08-26",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:7HHquI5xLaKRUfLUxWdBcn"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "Ben has big news, and the U.S. government might be making a big move on Intel.",
+        "html_description": "<br/><p><br /></p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/6mlJ2YnnS6PQoWHZ3BnznI"
+        },
+        "href": "https://api.spotify.com/v1/episodes/6mlJ2YnnS6PQoWHZ3BnznI",
+        "id": "6mlJ2YnnS6PQoWHZ3BnznI",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Ikea and Intel",
+        "release_date": "2025-08-19",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:6mlJ2YnnS6PQoWHZ3BnznI"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "Apple has a workaround for Apple Watch blood monitoring, and OpenAI backtracks on ChatGPT.",
+        "html_description": "<br/><p>John wrote about the Apple Watch on <a href=\"LINK\" rel=\"nofollow\">Daring Fireball</a> and Ben wrote about ChatGPT on <a href=\"https://stratechery.com/2025/chatgpt-5-product-trade-offs-personality-and-model-upgrades/\" rel=\"nofollow\">Stratechery</a>.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/0hAW1zFN9VM5b1iFfkCnEt"
+        },
+        "href": "https://api.spotify.com/v1/episodes/0hAW1zFN9VM5b1iFfkCnEt",
+        "id": "0hAW1zFN9VM5b1iFfkCnEt",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Blood Monitors and ChatGPT Changes",
+        "release_date": "2025-08-15",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:0hAW1zFN9VM5b1iFfkCnEt"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "Exploring the surprising response to ChatGPT 5.",
+        "html_description": "<br/><p>John wrote about the response to ChatGPT 5 on <a href=\"https://daringfireball.net/2025/08/openai_chatgpt_models_emotional_attachment\" rel=\"nofollow\">Daring Fireball</a>.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/3hUOnp2g8KLLKEHmyDscbx"
+        },
+        "href": "https://api.spotify.com/v1/episodes/3hUOnp2g8KLLKEHmyDscbx",
+        "id": "3hUOnp2g8KLLKEHmyDscbx",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "ChatGPT 5",
+        "release_date": "2025-08-12",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:3hUOnp2g8KLLKEHmyDscbx"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "John predicts Apple will stay the course with AI, and not buy Anthropic or anyone else.",
+        "html_description": "<br/><p>Ben wrote about Apple&#39;s long-term risks in <a href=\"https://stratechery.com/2025/paradigm-shifts-and-the-winners-curse/\" rel=\"nofollow\">Paradigm Shifts and the Winner&#39;s Curse</a>.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/5lEUcJKJpUAmtO8gXXVpWh"
+        },
+        "href": "https://api.spotify.com/v1/episodes/5lEUcJKJpUAmtO8gXXVpWh",
+        "id": "5lEUcJKJpUAmtO8gXXVpWh",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "John Predicts",
+        "release_date": "2025-08-08",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 885000
+        },
+        "type": "episode",
+        "uri": "spotify:episode:5lEUcJKJpUAmtO8gXXVpWh"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "Apple's earnings were more interesting than usual because of Google and AI.",
+        "html_description": "<br/><p>Ben wrote about Apple&#39;s earnings on <a href=\"https://stratechery.com/2025/apple-earnings-cooks-ai-comments-apples-ai-strategy-redux/\" rel=\"nofollow\">Stratechery</a>. </p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/4fPaXAXXuE3fErhjegTywA"
+        },
+        "href": "https://api.spotify.com/v1/episodes/4fPaXAXXuE3fErhjegTywA",
+        "id": "4fPaXAXXuE3fErhjegTywA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Apple Earnings",
+        "release_date": "2025-08-05",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:4fPaXAXXuE3fErhjegTywA"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "How Washington Street Pretzels are like Figma",
+        "html_description": "<br/><p></p><p>Ben wrote about Figma&#39;s S-1 on <a href=\"https://stratechery.com/2025/figma-s-1-the-figma-os-figmas-ai-potential/\" rel=\"nofollow\">Stratechery</a>.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/6X5iaGrhjnOiqvuYhkMgGx"
+        },
+        "href": "https://api.spotify.com/v1/episodes/6X5iaGrhjnOiqvuYhkMgGx",
+        "id": "6X5iaGrhjnOiqvuYhkMgGx",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Soft Pretzels and Figma",
+        "release_date": "2025-07-31",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:6X5iaGrhjnOiqvuYhkMgGx"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "Intel is stuck in the middle and might be done for real.",
+        "html_description": "<br/><p>Ben and John wrote about Intel on <a href=\"https://daringfireball.net/linked/2025/07/26/intel-needs-a-big-customer\" rel=\"nofollow\">Daring Fireball</a> and <a href=\"https://stratechery.com/2025/tsmc-earnings-a16-and-tsmcs-approach-to-backside-power-intel-earnings-architecture-and-ai/\" rel=\"nofollow\">Stratechery</a>.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/0ONuBMhw0qE6PdzwNmKyxx"
+        },
+        "href": "https://api.spotify.com/v1/episodes/0ONuBMhw0qE6PdzwNmKyxx",
+        "id": "0ONuBMhw0qE6PdzwNmKyxx",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Intel in the Middle",
+        "release_date": "2025-07-29",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:0ONuBMhw0qE6PdzwNmKyxx"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "The current state of Liquid Glass, and Apple looks set to get F1 rights.",
+        "html_description": "<br/><p>Ben wrote about F1 rights on <a href=\"https://stratechery.com/2025/netflix-earnings-apple-and-f1/\" rel=\"nofollow\">Stratechery</a>.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/5zf0NUpoWhuymcXgcj1cZT"
+        },
+        "href": "https://api.spotify.com/v1/episodes/5zf0NUpoWhuymcXgcj1cZT",
+        "id": "5zf0NUpoWhuymcXgcj1cZT",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Apple Betas and F1",
+        "release_date": "2025-07-25",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:5zf0NUpoWhuymcXgcj1cZT"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "A new ergonomic travel setup (and Vision Pro critique), and why Grok has an opening by not being annoying.",
+        "html_description": "<br/><p> </p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/3M1XmyzXt2it4BIF76thVg"
+        },
+        "href": "https://api.spotify.com/v1/episodes/3M1XmyzXt2it4BIF76thVg",
+        "id": "3M1XmyzXt2it4BIF76thVg",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Grok's Opening",
+        "release_date": "2025-07-22",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:3M1XmyzXt2it4BIF76thVg"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "All-in-one messaging apps and why it’s ok if not everything is encrypted.",
+        "html_description": "<br/><p>  <br /></p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/2Kj4BIprY3QGF6JQQwan0R"
+        },
+        "href": "https://api.spotify.com/v1/episodes/2Kj4BIprY3QGF6JQQwan0R",
+        "id": "2Kj4BIprY3QGF6JQQwan0R",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Beeper and RCS",
+        "release_date": "2025-07-18",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:2Kj4BIprY3QGF6JQQwan0R"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "Regulatory focus on small acquisitions is hurting Silicon Valley.",
+        "html_description": "<br/><p>Ben wrote about regulators hurting the tech hiring flywheel on <a href=\"https://stratechery.com/2025/google-and-windsurf-stinky-deals-chestertons-fence-and-the-silicon-valley-ecosystem/\" rel=\"nofollow\">Stratechery</a>. </p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/3BBW0jqDkjEWvVtVvbkwd5"
+        },
+        "href": "https://api.spotify.com/v1/episodes/3BBW0jqDkjEWvVtVvbkwd5",
+        "id": "3BBW0jqDkjEWvVtVvbkwd5",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Tech’s Chesterton’s Fence",
+        "release_date": "2025-07-15",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:3BBW0jqDkjEWvVtVvbkwd5"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "Apple's software team needs a distinct ethos — and more chrome.",
+        "html_description": "<br/><p>John wrote about Jeff Williams retiring and the state of Apple&#39;s design leadership on <a href=\"https://daringfireball.net/2025/07/jeff_williams_is_retiring_as_coo\" rel=\"nofollow\">Daring Fireball</a>.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/7olqttDku2HiyFH5lB1NN5"
+        },
+        "href": "https://api.spotify.com/v1/episodes/7olqttDku2HiyFH5lB1NN5",
+        "id": "7olqttDku2HiyFH5lB1NN5",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Chrome Turf War",
+        "release_date": "2025-07-10",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:7olqttDku2HiyFH5lB1NN5"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "How can you measure the impact of AI on copyright holders?",
+        "html_description": "<br/><p>John referenced &#34;What Happens After A.I. Destroys College Writing?&#34; from the <a href=\"https://www.newyorker.com/magazine/2025/07/07/the-end-of-the-english-paper\" rel=\"nofollow\">New Yorker</a>. Ben wrote on Stratechery about the fair use cases against <a href=\"https://stratechery.com/2025/training-ai-is-fair-use-product-protection-versus-llm-liability-piracy-and-competition/\" rel=\"nofollow\">Anthropic</a> and <a href=\"https://stratechery.com/2025/training-ai-is-not-fair-use-llms-and-scale-pushing-on-a-string/\" rel=\"nofollow\">Meta</a>.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/6WNdrDS1FBUyVCDdWOK0Jo"
+        },
+        "href": "https://api.spotify.com/v1/episodes/6WNdrDS1FBUyVCDdWOK0Jo",
+        "id": "6WNdrDS1FBUyVCDdWOK0Jo",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "AI and Fair Use",
+        "release_date": "2025-07-08",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:6WNdrDS1FBUyVCDdWOK0Jo"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "Apple sends an ad from Apple Wallet, and the EU gets ready for summer vacation.",
+        "html_description": "<br/><p>John wrote about the F1 notification on <a href=\"https://daringfireball.net/linked/2025/06/26/apple-wallet-sends-push-notification-ad-pushing-f1-the-movie\" rel=\"nofollow\">Daring Fireball</a>.</p><br/><p>Dithering will be off next week and return the week of July 7.</p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/6dmFFPLAFyAuKHPGndB0FU"
+        },
+        "href": "https://api.spotify.com/v1/episodes/6dmFFPLAFyAuKHPGndB0FU",
+        "id": "6dmFFPLAFyAuKHPGndB0FU",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Summer Notification",
+        "release_date": "2025-06-27",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:6dmFFPLAFyAuKHPGndB0FU"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "If top end engineers are more valuable than athletes, why aren’t they paid more?",
+        "html_description": "<br/><p><br /></p><br/><p>Get all episodes of Dithering, Sharp Tech, Sharp China, Stratechery Updates and Interviews, and Greatest of All Talk as part of <a href=\"https://stratechery.passport.online/member/plan/4ycW4SE71Cy6ryrijywbTG\" rel=\"nofollow\">Stratechery Plus</a> for $15/month or $150/year.</p><br/><p><a href=\"https://open.spotify.com/show/4vk2MfVMEAuOnTWUOz6lnE\" rel=\"nofollow\">Listen to Sharp Tech</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4PGk72vZmL2uHwUB8Yqssk\" rel=\"nofollow\">Listen to Sharp China</a>.</p><br/><p><a href=\"https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk\" rel=\"nofollow\">Listen to Stratechery</a>.</p><br/><p><a href=\"https://open.spotify.com/show/29hrPvq9yABUvxAgSojUJE\" rel=\"nofollow\">Listen to Greatest Of All Talk</a>.</p><br/><p><a href=\"https://open.spotify.com/show/4dzR3d4gnz5N4piz1TPo8M\" rel=\"nofollow\">Listen to Asianometry</a>.</p><br/><p><a href=\"https://daringfireball.net/thetalkshow/\" rel=\"nofollow\">Listen to The Talk Show</a>.</p>",
+        "duration_ms": 900000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/0lmD2SP9Sy9oLKqLpVdozb"
+        },
+        "href": "https://api.spotify.com/v1/episodes/0lmD2SP9Sy9oLKqLpVdozb",
+        "id": "0lmD2SP9Sy9oLKqLpVdozb",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a5ffb11b275b089b5b953bbf5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f5ffb11b275b089b5b953bbf5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d5ffb11b275b089b5b953bbf5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "name": "Tech Superstars",
+        "release_date": "2025-06-24",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:0lmD2SP9Sy9oLKqLpVdozb"
+      }
+    ]
+  }
+}

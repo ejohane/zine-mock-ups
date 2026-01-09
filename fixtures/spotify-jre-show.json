@@ -1,0 +1,2392 @@
+{
+  "available_markets": [
+    "AR",
+    "AU",
+    "AT",
+    "BE",
+    "BO",
+    "BR",
+    "BG",
+    "CA",
+    "CL",
+    "CO",
+    "CR",
+    "CY",
+    "CZ",
+    "DK",
+    "DO",
+    "DE",
+    "EC",
+    "EE",
+    "SV",
+    "FI",
+    "FR",
+    "GR",
+    "GT",
+    "HN",
+    "HK",
+    "HU",
+    "IS",
+    "IE",
+    "IT",
+    "LV",
+    "LT",
+    "LU",
+    "MY",
+    "MT",
+    "MX",
+    "NL",
+    "NZ",
+    "NI",
+    "NO",
+    "PA",
+    "PY",
+    "PE",
+    "PH",
+    "PL",
+    "PT",
+    "SG",
+    "SK",
+    "ES",
+    "SE",
+    "CH",
+    "TW",
+    "TR",
+    "UY",
+    "US",
+    "GB",
+    "AD",
+    "LI",
+    "MC",
+    "ID",
+    "JP",
+    "TH",
+    "VN",
+    "RO",
+    "IL",
+    "ZA",
+    "SA",
+    "AE",
+    "BH",
+    "QA",
+    "OM",
+    "KW",
+    "EG",
+    "MA",
+    "DZ",
+    "TN",
+    "LB",
+    "JO",
+    "PS",
+    "IN",
+    "BY",
+    "KZ",
+    "MD",
+    "UA",
+    "AL",
+    "BA",
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI",
+    "KR",
+    "BD",
+    "PK",
+    "LK",
+    "GH",
+    "KE",
+    "NG",
+    "TZ",
+    "UG",
+    "AG",
+    "AM",
+    "BS",
+    "BB",
+    "BZ",
+    "BT",
+    "BW",
+    "BF",
+    "CV",
+    "CW",
+    "DM",
+    "FJ",
+    "GM",
+    "GE",
+    "GD",
+    "GW",
+    "GY",
+    "HT",
+    "JM",
+    "KI",
+    "LS",
+    "LR",
+    "MW",
+    "MV",
+    "ML",
+    "MH",
+    "FM",
+    "NA",
+    "NR",
+    "NE",
+    "PW",
+    "PG",
+    "PR",
+    "WS",
+    "SM",
+    "ST",
+    "SN",
+    "SC",
+    "SL",
+    "SB",
+    "KN",
+    "LC",
+    "VC",
+    "SR",
+    "TL",
+    "TO",
+    "TT",
+    "TV",
+    "VU",
+    "AZ",
+    "BN",
+    "BI",
+    "KH",
+    "CM",
+    "TD",
+    "KM",
+    "GQ",
+    "SZ",
+    "GA",
+    "GN",
+    "KG",
+    "LA",
+    "MO",
+    "MR",
+    "MN",
+    "NP",
+    "RW",
+    "TG",
+    "UZ",
+    "ZW",
+    "BJ",
+    "MG",
+    "MU",
+    "MZ",
+    "AO",
+    "CI",
+    "DJ",
+    "ZM",
+    "CD",
+    "CG",
+    "IQ",
+    "LY",
+    "TJ",
+    "VE",
+    "ET",
+    "XK"
+  ],
+  "copyrights": [],
+  "description": "The official podcast of comedian Joe Rogan.",
+  "html_description": "<p>The official podcast of comedian Joe Rogan.</p>",
+  "explicit": true,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+  },
+  "href": "https://api.spotify.com/v1/shows/4rOoJ6Egrf8K2IrywzwOMk?locale=en-US%2Cen%3Bq%3D0.9",
+  "id": "4rOoJ6Egrf8K2IrywzwOMk",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6765630000ba8a58eaf498ab21ca5b9a9c0e4e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67656300005f1f58eaf498ab21ca5b9a9c0e4e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab6765630000f68d58eaf498ab21ca5b9a9c0e4e",
+      "width": 64
+    }
+  ],
+  "is_externally_hosted": false,
+  "languages": [
+    "en"
+  ],
+  "media_type": "mixed",
+  "name": "The Joe Rogan Experience",
+  "publisher": "Joe Rogan",
+  "type": "show",
+  "uri": "spotify:show:4rOoJ6Egrf8K2IrywzwOMk",
+  "total_episodes": 2619,
+  "episodes": {
+    "href": "https://api.spotify.com/v1/shows/4rOoJ6Egrf8K2IrywzwOMk/episodes?offset=0&limit=50&locale=en-US,en;q%3D0.9",
+    "limit": 50,
+    "next": "https://api.spotify.com/v1/shows/4rOoJ6Egrf8K2IrywzwOMk/episodes?offset=50&limit=50&locale=en-US,en;q%3D0.9",
+    "offset": 0,
+    "previous": null,
+    "total": 2619,
+    "items": [
+      null,
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0N6OUrh6V8iKaDVVV1qXYC/clip_49000_109240.mp3",
+        "description": "Kurt Metzger is a comedian, writer, and host of \"The Derp with Kurp\" podcast.www.youtube.com/@kurtmetzgercomedywww.kurtmetzgercomedy.com  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.  Don’t miss out on all the action this week at DraftKings! Download the DraftKings app today! Sign-up using dkng.co/rogan or through my promo code ROGAN. GAMBLING PROBLEM? CALL 1-800-GAMBLER, (800) 327-5050 or visit gamblinghelplinema.org (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY). Please Gamble Responsibly. 888-789-7777/visit ccpg.org (CT), or visit www.mdgamblinghelp.org (MD). 21+ and present in most states. (18+ DC/KY/NH/WY). Void in ONT/OR/NH. Eligibility restrictions apply. On behalf of Boot Hill Casino & Resort (KS). Pass-thru of per wager tax may apply in IL. 1 per new customer. Must register new account to receive reward Token. Must select Token BEFORE placing min. $5 bet to receive $300 in Bonus Bets if your bet wins. Min. -500 odds req. Token and Bonus Bets are single-use and non-withdrawable. Token expires 2/1/26. Bonus Bets expire in 7 days (168 hours). Stake removed from payout. Terms: sportsbook.draftkings.com/promos. Ends 1/25/26 at 11:59 PM ET. Sponsored by DK.  This video is sponsored by BetterHelp. Visit https://BetterHelp.com/JRE  Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Kurt Metzger is a comedian, writer, and host of &#34;The Derp with Kurp&#34; podcast.<br />www.youtube.com/&#64;kurtmetzgercomedy<br />www.kurtmetzgercomedy.com</p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p><br /></p><br/><p>Don’t miss out on all the action this week at DraftKings! Download the DraftKings app today! Sign-up using <a href=\"dkng.co/rogan\" rel=\"nofollow\">dkng.co/rogan</a> or through my promo code ROGAN.</p><br/><p>GAMBLING PROBLEM? CALL 1-800-GAMBLER, (800) 327-5050 or visit <a href=\"gamblinghelplinema.org\" rel=\"nofollow\">gamblinghelplinema.org</a> (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY). Please Gamble Responsibly. 888-789-7777/visit <a href=\"ccpg.org\" rel=\"nofollow\">ccpg.org</a> (CT), or visit <a href=\"www.mdgamblinghelp.org\" rel=\"nofollow\">www.mdgamblinghelp.org</a> (MD). 21&#43; and present in most states. (18&#43; DC/KY/NH/WY). Void in ONT/OR/NH. Eligibility restrictions apply. On behalf of Boot Hill Casino &amp; Resort (KS). Pass-thru of per wager tax may apply in IL. 1 per new customer. Must register new account to receive reward Token. Must select Token BEFORE placing min. $5 bet to receive $300 in Bonus Bets if your bet wins. Min. -500 odds req. Token and Bonus Bets are single-use and non-withdrawable. Token expires 2/1/26. Bonus Bets expire in 7 days (168 hours). Stake removed from payout. Terms: <a href=\"sportsbook.draftkings.com/promos\" rel=\"nofollow\">sportsbook.draftkings.com/promos</a>. Ends 1/25/26 at 11:59 PM ET. Sponsored by DK.</p><br/><p><br /></p><br/><p>This video is sponsored by BetterHelp. Visit <a href=\"https://BetterHelp.com/JRE\" rel=\"nofollow\">https://BetterHelp.com/JRE</a></p><br/><p><br /></p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 9269524,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/5ydrkDXcGprzs2MGPNQygi"
+        },
+        "href": "https://api.spotify.com/v1/episodes/5ydrkDXcGprzs2MGPNQygi",
+        "id": "5ydrkDXcGprzs2MGPNQygi",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8abba31547732adc01fed18982",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1fbba31547732adc01fed18982",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68dbba31547732adc01fed18982",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2434 - Kurt Metzger",
+        "release_date": "2026-01-06",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:5ydrkDXcGprzs2MGPNQygi"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1dVa4p9bBZ9BJinMnuVtJy/clip_64000_124280.mp3",
+        "description": "Joe sits down with Gable Steveson, a mixed martial artist, wrestler, boxer, and Olympic gold medalist.  www.gablesteveson.com  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.  Get a free welcome kit with your first subscription of AG1 at https://drinkag1.com/joerogan  Athletic Brewing Co. Non-alcoholic Beer. Fit For All Times. Athletic Brewing Company LLC. Milford, CT and San Diego, CA. Near Beer <0.5% alc/vol. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Joe sits down with Gable Steveson, a mixed martial artist, wrestler, boxer, and Olympic gold medalist. </p><br/><p>www.gablesteveson.com</p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p><br /></p><br/><p>Get a free welcome kit with your first subscription of AG1 at <a href=\"https://drinkag1.com/joerogan\" rel=\"nofollow\">https://drinkag1.com/joerogan</a></p><br/><p><br /></p><br/><p>Athletic Brewing Co. Non-alcoholic Beer. Fit For All Times. Athletic Brewing Company LLC. Milford, CT and San Diego, CA. Near Beer &lt;0.5% alc/vol.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 8180841,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/774IM6slhVCUyN3SDhup5x"
+        },
+        "href": "https://api.spotify.com/v1/episodes/774IM6slhVCUyN3SDhup5x",
+        "id": "774IM6slhVCUyN3SDhup5x",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a8e2fd3c191ea90f47e7ea4b3",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f8e2fd3c191ea90f47e7ea4b3",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d8e2fd3c191ea90f47e7ea4b3",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "JRE MMA Show #172 with Gable Steveson",
+        "release_date": "2026-01-01",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:774IM6slhVCUyN3SDhup5x"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0gaA44CjZZBRlOxLNxYtIM/clip_105000_166880.mp3",
+        "description": "James Donald Forbes McCann is a comedian, author, and host of “The James Donald Forbes McCann Catamaran Plan.\" His latest special, \"James Donald Forbes McCann: Black Israelite,\" is streaming on YouTube.www.jdfmccann.comwww.youtube.com/@JamesDonaldForbesMcCannwww.patreon.com/jdfmccann  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.  Get a free welcome kit with your first subscription of AG1 at https://drinkag1.com/joerogan  50% off your first box at https://www.thefarmersdog.com/rogan! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>James Donald Forbes McCann is a comedian, author, and host of “The James Donald Forbes McCann Catamaran Plan.&#34; His latest special, &#34;James Donald Forbes McCann: Black Israelite,&#34; is streaming on YouTube.<br />www.jdfmccann.com<br />www.youtube.com/&#64;JamesDonaldForbesMcCann<br />www.patreon.com/jdfmccann</p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p><br /></p><br/><p>Get a free welcome kit with your first subscription of AG1 at <a href=\"https://drinkag1.com/joerogan\" rel=\"nofollow\">https://drinkag1.com/joerogan</a></p><br/><p><br /></p><br/><p>50% off your first box at <a href=\"https://www.thefarmersdog.com/rogan\" rel=\"nofollow\">https://www.thefarmersdog.com/rogan</a>!</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 10610602,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/00HYX4ql8K3K6bDYY9oIe6"
+        },
+        "href": "https://api.spotify.com/v1/episodes/00HYX4ql8K3K6bDYY9oIe6",
+        "id": "00HYX4ql8K3K6bDYY9oIe6",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a28a797f4ff33f865c96890a0",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f28a797f4ff33f865c96890a0",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d28a797f4ff33f865c96890a0",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2433 - James McCann",
+        "release_date": "2025-12-31",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 791000
+        },
+        "type": "episode",
+        "uri": "spotify:episode:00HYX4ql8K3K6bDYY9oIe6"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2WzNnu9ei7tmbW8fBmGQah/clip_114000_173000.mp3",
+        "description": "Josh Dubin is the Executive Director of the Perlmutter Center for Legal Justice, a criminal justice reform advocate, and civil rights attorney.https://cardozo.yu.edu/directory/josh-dubin  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.  Visible. Live in the know. Join today at https://www.visible.com/  50% off your first box at https://www.thefarmersdog.com/rogan! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Josh Dubin is the Executive Director of the Perlmutter Center for Legal Justice, a criminal justice reform advocate, and civil rights attorney.<br /><a href=\"https://cardozo.yu.edu/directory/josh-dubin\" rel=\"nofollow\">https://cardozo.yu.edu/directory/josh-dubin</a></p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p><br /></p><br/><p>Visible. Live in the know. Join today at <a href=\"https://www.visible.com/\" rel=\"nofollow\">https://www.visible.com/</a></p><br/><p><br /></p><br/><p>50% off your first box at <a href=\"https://www.thefarmersdog.com/rogan\" rel=\"nofollow\">https://www.thefarmersdog.com/rogan</a>!</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 10245140,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/607qKHIvKbTNzBfX2yF7w0"
+        },
+        "href": "https://api.spotify.com/v1/episodes/607qKHIvKbTNzBfX2yF7w0",
+        "id": "607qKHIvKbTNzBfX2yF7w0",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8aef9d5af1610bf8c6c35f0c53",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1fef9d5af1610bf8c6c35f0c53",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68def9d5af1610bf8c6c35f0c53",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2432 - Josh Dubin",
+        "release_date": "2025-12-30",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:607qKHIvKbTNzBfX2yF7w0"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3q5WepZFbmJkQTrZYpTdD2/clip_116000_176800.mp3",
+        "description": "Shane is a comedian, co-host of “Matt and Shane’s Secret Podcast” with Matt McCusker, a creator and star of Netflix’s comedy series “Tires,” and one half of the sketch comedy duo “Gilly and Keeves” with John McKeever.www.shanemgillis.comhttps://gillyandkeeves.tvhttps://www.youtube.com/@MSsecretpodwww.youtube.com/@GillyandKeeves  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.  Get a free welcome kit with your first subscription of AG1 at https://drinkag1.com/joerogan Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Shane is a comedian, co-host of “Matt and Shane’s Secret Podcast” with Matt McCusker, a creator and star of Netflix’s comedy series “Tires,” and one half of the sketch comedy duo “Gilly and Keeves” with John McKeever.<br />www.shanemgillis.com<br /><a href=\"https://gillyandkeeves.tv/\" rel=\"nofollow\">https://gillyandkeeves.tv</a><br /><a href=\"https://www.youtube.com/&#64;MSsecretpod\" rel=\"nofollow\">https://www.youtube.com/&#64;MSsecretpod</a><br />www.youtube.com/&#64;GillyandKeeves</p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p><br /></p><br/><p>Get a free welcome kit with your first subscription of AG1 at <a href=\"https://drinkag1.com/joerogan\" rel=\"nofollow\">https://drinkag1.com/joerogan</a></p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 10612073,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/2YwQJ4O72YkwuaoJZAYD6a"
+        },
+        "href": "https://api.spotify.com/v1/episodes/2YwQJ4O72YkwuaoJZAYD6a",
+        "id": "2YwQJ4O72YkwuaoJZAYD6a",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a2d3fd5f03c62c2b553f7bc69",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f2d3fd5f03c62c2b553f7bc69",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d2d3fd5f03c62c2b553f7bc69",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2431 - Shane Gillis",
+        "release_date": "2025-12-25",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:2YwQJ4O72YkwuaoJZAYD6a"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/55917kDc7SNViJ4gpStUtY/clip_122000_182000.mp3",
+        "description": "Jay Anderson is the host and creator of the YouTube program and podcast Project Unity, which focuses on UFO and UAP phenomenon, human origins, ancient mysteries, and other topics. www.youtube.com/@ProjectUnityhttp://www.patreon.com/ProjectUnity  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Jay Anderson is the host and creator of the YouTube program and podcast Project Unity, which focuses on UFO and UAP phenomenon, human origins, ancient mysteries, and other topics.</p><br/><p>www.youtube.com/&#64;ProjectUnity<br />http://www.patreon.com/ProjectUnity</p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 10276671,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/2ucQrTRs56UZ60lJkCITvZ"
+        },
+        "href": "https://api.spotify.com/v1/episodes/2ucQrTRs56UZ60lJkCITvZ",
+        "id": "2ucQrTRs56UZ60lJkCITvZ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a6386fb22779a8b6208a6bac6",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f6386fb22779a8b6208a6bac6",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d6386fb22779a8b6208a6bac6",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2430 - Jay Anderson",
+        "release_date": "2025-12-24",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:2ucQrTRs56UZ60lJkCITvZ"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7HQZ7OGzJllTdUrBX8fFLe/clip_92000_154640.mp3",
+        "description": "Tom Segura is a comedian, actor, and author. He co-hosts “Your Mom’s House” with his wife, comedian Christina Pazsitzky, and “Two Bears, One Cave” with comedian Bert Kreischer. His new special, “Tom Segura: Teacher,” premieres December 24 on Netflix.www.tomsegura.comwww.ymhstudios.comwww.netflix.com/title/81605925  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.  Don’t miss out on all the action - Download the DraftKings app today! Sign-up at https://dkng.co/rogan or with my promo code ROGAN GAMBLING PROBLEM? CALL 1-800-GAMBLER, (800) 327-5050 or visit gamblinghelplinema.org (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY). Please Gamble Responsibly. 888-789-7777/visit ccpg.org (CT), or visit www.mdgamblinghelp.org (MD). 21+ and present in most states. (18+ DC/KY/NH/WY). Void in ONT/OR/NH. Eligibility restrictions apply. On behalf of Boot Hill Casino & Resort (KS). Pass-thru of per wager tax may apply in IL. 1 per new customer. Must register new account to receive reward Token. Must select Token BEFORE placing min. $5 bet to receive $200 in Bonus Bets if your bet wins. Min. -500 odds req. Token and Bonus Bets are single-use and non-withdrawable. Token expires 1/11/26. Bonus Bets expire in 7 days (168 hours). Stake removed from payout. Terms: sportsbook.draftkings.com/promos. Ends 1/4/26 at 11:59 PM ET. Sponsored by DK. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Tom Segura is a comedian, actor, and author. He co-hosts “Your Mom’s House” with his wife, comedian Christina Pazsitzky, and “Two Bears, One Cave” with comedian Bert Kreischer. His new special, “Tom Segura: Teacher,” premieres December 24 on Netflix.<br />www.tomsegura.com<br />www.ymhstudios.com<br /><a href=\"https://www.netflix.com/title/81605925\" rel=\"nofollow\">www.netflix.com/title/81605925</a></p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p><br /></p><br/><p>Don’t miss out on all the action - Download the DraftKings app today! Sign-up at <a href=\"https://dkng.co/rogan\" rel=\"nofollow\">https://dkng.co/rogan</a> or with my promo code ROGAN</p><br/><p>GAMBLING PROBLEM? CALL 1-800-GAMBLER, (800) 327-5050 or visit <a href=\"gamblinghelplinema.org\" rel=\"nofollow\">gamblinghelplinema.org</a> (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY). Please Gamble Responsibly. 888-789-7777/visit <a href=\"ccpg.org\" rel=\"nofollow\">ccpg.org</a> (CT), or visit <a href=\"www.mdgamblinghelp.org\" rel=\"nofollow\">www.mdgamblinghelp.org</a> (MD). 21&#43; and present in most states. (18&#43; DC/KY/NH/WY). Void in ONT/OR/NH. Eligibility restrictions apply. On behalf of Boot Hill Casino &amp; Resort (KS). Pass-thru of per wager tax may apply in IL. 1 per new customer. Must register new account to receive reward Token. Must select Token BEFORE placing min. $5 bet to receive $200 in Bonus Bets if your bet wins. Min. -500 odds req. Token and Bonus Bets are single-use and non-withdrawable. Token expires 1/11/26. Bonus Bets expire in 7 days (168 hours). Stake removed from payout. Terms: <a href=\"sportsbook.draftkings.com/promos\" rel=\"nofollow\">sportsbook.draftkings.com/promos</a>. Ends 1/4/26 at 11:59 PM ET. Sponsored by DK.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 10259774,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/3I73JjneJhJZGqvMjzLpUM"
+        },
+        "href": "https://api.spotify.com/v1/episodes/3I73JjneJhJZGqvMjzLpUM",
+        "id": "3I73JjneJhJZGqvMjzLpUM",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8abbd6a5596b206ab240eaf0b4",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1fbbd6a5596b206ab240eaf0b4",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68dbbd6a5596b206ab240eaf0b4",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2429 - Tom Segura",
+        "release_date": "2025-12-23",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:3I73JjneJhJZGqvMjzLpUM"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2EkLuNISatcF479erhl0q3/clip_145000_208480.mp3",
+        "description": "Michael P. Masters, PhD, is a professor of biological anthropology at Montana Technological University and the author of several books exploring the hypothesis that alien visitors may be human time travelers from the future. The most recent titles are \"The Extratempestrial Model,\" a work of nonfiction, and the novel \"Revelation: The Future Human Past.\" www.idflyobj.com/books-%26-merchwww.youtube.com/@MichaelPMasterswww.idflyobj.com  Download the app or ask Perplexity anything at https://pplx.ai/rogan.  This video is sponsored by BetterHelp. Visit https://BetterHelp.com/JRE  This episode is brought to you by Monster Ultra. Zero Sugar, Flavor Unleashed. Visit https://monsterenergy.com to learn more. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Michael P. Masters, PhD, is a professor of biological anthropology at Montana Technological University and the author of several books exploring the hypothesis that alien visitors may be human time travelers from the future. The most recent titles are &#34;The Extratempestrial Model,&#34; a work of nonfiction, and the novel &#34;Revelation: The Future Human Past.&#34; <br />www.idflyobj.com/books-%26-merch<br />www.youtube.com/&#64;MichaelPMasters<br />www.idflyobj.com</p><br/><p><br /></p><br/><p>Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p><br /></p><br/><p>This video is sponsored by BetterHelp. Visit <a href=\"https://BetterHelp.com/JRE\" rel=\"nofollow\">https://BetterHelp.com/JRE</a></p><br/><p><br /></p><br/><p>This episode is brought to you by Monster Ultra. Zero Sugar, Flavor Unleashed. Visit <a href=\"https://monsterenergy.com\" rel=\"nofollow\">https://monsterenergy.com</a> to learn more.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 10123519,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/5i3MMCtmsgWRlKh5gLAhGQ"
+        },
+        "href": "https://api.spotify.com/v1/episodes/5i3MMCtmsgWRlKh5gLAhGQ",
+        "id": "5i3MMCtmsgWRlKh5gLAhGQ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8aca40f868a3f886bf6cdbd3c3",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1fca40f868a3f886bf6cdbd3c3",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68dca40f868a3f886bf6cdbd3c3",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2428 - Michael P. Masters",
+        "release_date": "2025-12-18",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 1491000
+        },
+        "type": "episode",
+        "uri": "spotify:episode:5i3MMCtmsgWRlKh5gLAhGQ"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7AdkSMFjZK99WkSNd5ww1D/clip_103000_160000.mp3",
+        "description": "Bret Weinstein, PhD, is an evolutionary biologist, author, and co-host of “The DarkHorse Podcast” with his wife, biologist Heather Heying. They are the co-authors of “A Hunter-Gatherer’s Guide to the 21st Century: Evolution and the Challenges of Modern Life.”www.bretweinstein.netwww.youtube.com/@DarkHorsePodwww.penguinrandomhouse.com/books/618153/a-hunter-gatherers-guide-to-the-21st-century-by-heather-heying-and-bret-weinstein/  Download the app or ask Perplexity anything at https://pplx.ai/rogan  Get a free welcome kit with your first subscription of AG1 at https://drinkag1.com/joerogan  Try ZipRecruiter FOR FREE at https://ziprecruiter.com/rogan Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Bret Weinstein, PhD, is an evolutionary biologist, author, and co-host of “The DarkHorse Podcast” with his wife, biologist Heather Heying. They are the co-authors of “A Hunter-Gatherer’s Guide to the 21st Century: Evolution and the Challenges of Modern Life.”<br />www.bretweinstein.net<br />www.youtube.com/&#64;DarkHorsePod<br />www.penguinrandomhouse.com/books/618153/a-hunter-gatherers-guide-to-the-21st-century-by-heather-heying-and-bret-weinstein/</p><br/><p><br /></p><br/><p>Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a></p><br/><p><br /></p><br/><p>Get a free welcome kit with your first subscription of AG1 at <a href=\"https://drinkag1.com/joerogan\" rel=\"nofollow\">https://drinkag1.com/joerogan</a></p><br/><p><br /></p><br/><p>Try ZipRecruiter FOR FREE at <a href=\"https://ziprecruiter.com/rogan\" rel=\"nofollow\">https://ziprecruiter.com/rogan</a></p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 11655742,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/6DrBgI7X6huaYj22LqtwgU"
+        },
+        "href": "https://api.spotify.com/v1/episodes/6DrBgI7X6huaYj22LqtwgU",
+        "id": "6DrBgI7X6huaYj22LqtwgU",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a092d2f101e39a260b1526879",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f092d2f101e39a260b1526879",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d092d2f101e39a260b1526879",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2427 - Bret Weinstein",
+        "release_date": "2025-12-17",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 5918000
+        },
+        "type": "episode",
+        "uri": "spotify:episode:6DrBgI7X6huaYj22LqtwgU"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3Cu2xNQ7bFYEXKj7ac7hXD/clip_32000_94480.mp3",
+        "description": "Cameron Hanes is a master bowhunter, outdoorsman, elite athlete, author, and a host of the podcasts “Keep Hammering Collective,\" \"Sh*t Talkers Weekly,\" and \"Lift. Run. Shoot.\" His most recent book is \"Undeniable: How to Reach the Top and Stay There.\" www.cameronhanes.com www.youtube.com/@cameronhaneshttps://us.macmillan.com/books/9781250365941/undeniable/  Adam Greentree is an Australian bowhunter, photographer, outdoorsman, and entrepreneur.www.youtube.com/@adamgreentree9135www.atlaswild.com.au  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.  Go to https://ExpressVPN.com/ROGAN to get 4 months free!  Don’t miss out on all the action - Download the DraftKings app today! Sign-up at https://dkng.co/rogan or with my promo code ROGAN GAMBLING PROBLEM? CALL 1-800-GAMBLER, (800) 327-5050 or visit gamblinghelplinema.org (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY). Please Gamble Responsibly. 888-789-7777/visit ccpg.org (CT), or visit www.mdgamblinghelp.org (MD). 21+ and present in most states. (18+ DC/KY/NH/WY). Void in ONT/OR/NH. Eligibility restrictions apply. On behalf of Boot Hill Casino & Resort (KS). Pass-thru of per wager tax may apply in IL. 1 per new customer. Must register new account to receive reward Token. Must select Token BEFORE placing min. $5 bet to receive $200 in Bonus Bets if your bet wins. Min. -500 odds req. Token and Bonus Bets are single-use and non-withdrawable. Token expires 1/11/26. Bonus Bets expire in 7 days (168 hours). Stake removed from payout. Terms: sportsbook.draftkings.com/promos. Ends 1/4/26 at 11:59 PM ET. Sponsored by DK. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Cameron Hanes is a master bowhunter, outdoorsman, elite athlete, author, and a host of the podcasts “Keep Hammering Collective,&#34; &#34;Sh*t Talkers Weekly,&#34; and &#34;Lift. Run. Shoot.&#34; His most recent book is &#34;Undeniable: How to Reach the Top and Stay There.&#34;</p><br/><p>www.cameronhanes.com</p><br/><p>www.youtube.com/&#64;cameronhanes<br /><a href=\"https://us.macmillan.com/books/9781250365941/undeniable/\" rel=\"nofollow\">https://us.macmillan.com/books/9781250365941/undeniable/</a></p><br/><p><br /></p><br/><p>Adam Greentree is an Australian bowhunter, photographer, outdoorsman, and entrepreneur.<br />www.youtube.com/&#64;adamgreentree9135<br />www.atlaswild.com.au</p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p><br /></p><br/><p>Go to <a href=\"https://ExpressVPN.com/ROGAN\" rel=\"nofollow\">https://ExpressVPN.com/ROGAN</a> to get 4 months free!</p><br/><p><br /></p><br/><p>Don’t miss out on all the action - Download the DraftKings app today! Sign-up at <a href=\"https://dkng.co/rogan\" rel=\"nofollow\">https://dkng.co/rogan</a> or with my promo code ROGAN</p><br/><p>GAMBLING PROBLEM? CALL 1-800-GAMBLER, (800) 327-5050 or visit <a href=\"gamblinghelplinema.org\" rel=\"nofollow\">gamblinghelplinema.org</a> (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY). Please Gamble Responsibly. 888-789-7777/visit <a href=\"ccpg.org\" rel=\"nofollow\">ccpg.org</a> (CT), or visit <a href=\"www.mdgamblinghelp.org\" rel=\"nofollow\">www.mdgamblinghelp.org</a> (MD). 21&#43; and present in most states. (18&#43; DC/KY/NH/WY). Void in ONT/OR/NH. Eligibility restrictions apply. On behalf of Boot Hill Casino &amp; Resort (KS). Pass-thru of per wager tax may apply in IL. 1 per new customer. Must register new account to receive reward Token. Must select Token BEFORE placing min. $5 bet to receive $200 in Bonus Bets if your bet wins. Min. -500 odds req. Token and Bonus Bets are single-use and non-withdrawable. Token expires 1/11/26. Bonus Bets expire in 7 days (168 hours). Stake removed from payout. Terms: <a href=\"sportsbook.draftkings.com/promos\" rel=\"nofollow\">sportsbook.draftkings.com/promos</a>. Ends 1/4/26 at 11:59 PM ET. Sponsored by DK.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 11314772,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/15m1k9ThV7xicdF0cImRik"
+        },
+        "href": "https://api.spotify.com/v1/episodes/15m1k9ThV7xicdF0cImRik",
+        "id": "15m1k9ThV7xicdF0cImRik",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a057b1c9a9a99966174e30509",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f057b1c9a9a99966174e30509",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d057b1c9a9a99966174e30509",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2426 - Cameron Hanes & Adam Greentree",
+        "release_date": "2025-12-16",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:15m1k9ThV7xicdF0cImRik"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2IEtxJCDS45WcBq8zqj8o0/clip_114000_174480.mp3",
+        "description": "Ethan Hawke is an actor, filmmaker, and author. He recently starred in the film “Blue Moon,” available on major streaming platforms and in select theaters, and the FX series “The Lowdown,” available for streaming on HULU.https://bluemoonfilm.com/home/www.fxnetworks.com/shows/the-lowdownhttps://linktr.ee/ethanhawke  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.  Get a free welcome kit with your first subscription of AG1 at https://drinkag1.com/joerogan  Get Gameday Deals all season long only on Uber Eats. Order Now. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Ethan Hawke is an actor, filmmaker, and author. He recently starred in the film “Blue Moon,” available on major streaming platforms and in select theaters, and the FX series “The Lowdown,” available for streaming on HULU.<br /><a href=\"https://bluemoonfilm.com/home/\" rel=\"nofollow\">https://bluemoonfilm.com/home/</a><br />www.fxnetworks.com/shows/the-lowdown<br /><a href=\"https://linktr.ee/ethanhawke\" rel=\"nofollow\">https://linktr.ee/ethanhawke</a></p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p><br /></p><br/><p>Get a free welcome kit with your first subscription of AG1 at <a href=\"https://drinkag1.com/joerogan\" rel=\"nofollow\">https://drinkag1.com/joerogan</a></p><br/><p><br /></p><br/><p>Get Gameday Deals all season long only on Uber Eats. Order Now.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 8517311,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/4qbUtgznrzk5bX7xKOcDJk"
+        },
+        "href": "https://api.spotify.com/v1/episodes/4qbUtgznrzk5bX7xKOcDJk",
+        "id": "4qbUtgznrzk5bX7xKOcDJk",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a11b3c6dd76ea060a7eca4542",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f11b3c6dd76ea060a7eca4542",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d11b3c6dd76ea060a7eca4542",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2425 - Ethan Hawke",
+        "release_date": "2025-12-11",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:4qbUtgznrzk5bX7xKOcDJk"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5PsMAx2ouH6c7zZhL4uYSv/clip_46000_107520.mp3",
+        "description": "Jelly Roll is a rapper, singer, songwriter, actor, and philanthropist. His most recent album is “Beautifully Broken.”https://drop.cobrand.com/d/JellyRoll/downundertour2025www.jellyroll615.com   Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Jelly Roll is a rapper, singer, songwriter, actor, and philanthropist. His most recent album is “Beautifully Broken.”<br /><a href=\"https://drop.cobrand.com/d/JellyRoll/downundertour2025\" rel=\"nofollow\">https://drop.cobrand.com/d/JellyRoll/downundertour2025</a><br />www.jellyroll615.com</p><br/><p><br /></p><br/><p><br /></p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 9287978,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/4JgacG8LtZclitPNhJ74Di"
+        },
+        "href": "https://api.spotify.com/v1/episodes/4JgacG8LtZclitPNhJ74Di",
+        "id": "4JgacG8LtZclitPNhJ74Di",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a6271cc70f83fa4f71fe8978e",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f6271cc70f83fa4f71fe8978e",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d6271cc70f83fa4f71fe8978e",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2424 - Jelly Roll",
+        "release_date": "2025-12-10",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:4JgacG8LtZclitPNhJ74Di"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1ul6selY8wpnJjlfSOihL7/clip_129000_194960.mp3",
+        "description": "Joe sits down with Brendan Allen, a professional mixed martial artist currently competing in the Middleweight division of the Ultimate Fighting Championship.www.ufc.com/athlete/brendan-allen  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.  Buy 1 Get 1 Free Trucker Hat with code ROGAN at https://happydad.com  Visit https://squarespace.com/ROGAN to save 10% off your first purchase of a website. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Joe sits down with Brendan Allen, a professional mixed martial artist currently competing in the Middleweight division of the Ultimate Fighting Championship.<br />www.ufc.com/athlete/brendan-allen</p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p><br /></p><br/><p>Buy 1 Get 1 Free Trucker Hat with code ROGAN at <a href=\"https://happydad.com\" rel=\"nofollow\">https://happydad.com</a></p><br/><p><br /></p><br/><p>Visit <a href=\"https://squarespace.com/ROGAN\" rel=\"nofollow\">https://squarespace.com/ROGAN</a> to save 10% off your first purchase of a website.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 10334121,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/3OoOARZKAIxh8wpdkalpQa"
+        },
+        "href": "https://api.spotify.com/v1/episodes/3OoOARZKAIxh8wpdkalpQa",
+        "id": "3OoOARZKAIxh8wpdkalpQa",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a74d2cf9c3d4a8b4bd5047f06",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f74d2cf9c3d4a8b4bd5047f06",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d74d2cf9c3d4a8b4bd5047f06",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "JRE MMA Show #171 with Brendan Allen",
+        "release_date": "2025-12-09",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:3OoOARZKAIxh8wpdkalpQa"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6SDjvb1reCnidHvwSfJHXQ/clip_142000_204880.mp3",
+        "description": "John Cena is a WWE 17-time World Champion wrestler, bestselling author, and actor whose on-screen career includes installments of the “Fast & Furious” franchise, “The Suicide Squad,” and its spinoff series “Peacemaker.”https://www.wwe.com/superstars/john-cena Tony Hinchcliffe is a comedian, writer, actor, and host of the podcast and live show “Kill Tony.” His Netflix special, “Kill Tony: Kill or Be Killed,” is streaming now.www.tonyhinchcliffe.comwww.youtube.com/@killtony  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.  Get a free welcome kit with your first subscription of AG1 at https://drinkag1.com/joerogan  Don’t miss out on all the action - Download the DraftKings app today! Sign-up at https://dkng.co/rogan or with my promo code ROGAN GAMBLING PROBLEM? CALL 1-800-GAMBLER, (800) 327-5050 or visit gamblinghelplinema.org (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY). Please Gamble Responsibly. 888-789-7777/visit ccpg.org (CT), or visit www.mdgamblinghelp.org (MD). 21+ and present in most states. (18+ DC/KY/NH/WY). Void in ONT/OR/NH. Eligibility restrictions apply. On behalf of Boot Hill Casino & Resort (KS). Pass-thru of per wager tax may apply in IL. 1 per new customer. Must register new account to receive reward Token. Must select Token BEFORE placing min. $5 bet to receive $200 in Bonus Bets if your bet wins. Min. -500 odds req. Token and Bonus Bets are single-use and non-withdrawable. Token expires 1/11/26. Bonus Bets expire in 7 days (168 hours). Stake removed from payout. Terms: sportsbook.draftkings.com/promos. Ends 1/4/26 at 11:59 PM ET. Sponsored by DK. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>John Cena is a WWE 17-time World Champion wrestler, bestselling author, and actor whose on-screen career includes installments of the “Fast &amp; Furious” franchise, “The Suicide Squad,” and its spinoff series “Peacemaker.”<br /><a href=\"https://www.wwe.com/superstars/john-cena\" rel=\"nofollow\">https://www.wwe.com/superstars/john-cena</a></p><br/><p><br />Tony Hinchcliffe is a comedian, writer, actor, and host of the podcast and live show “Kill Tony.” His Netflix special, “Kill Tony: Kill or Be Killed,” is streaming now.<br />www.tonyhinchcliffe.com<br />www.youtube.com/&#64;killtony</p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p><br /></p><br/><p>Get a free welcome kit with your first subscription of AG1 at <a href=\"https://drinkag1.com/joerogan\" rel=\"nofollow\">https://drinkag1.com/joerogan</a></p><br/><p><br /></p><br/><p>Don’t miss out on all the action - Download the DraftKings app today! Sign-up at <a href=\"https://dkng.co/rogan\" rel=\"nofollow\">https://dkng.co/rogan</a> or with my promo code ROGAN</p><br/><p>GAMBLING PROBLEM? CALL 1-800-GAMBLER, (800) 327-5050 or visit <a href=\"gamblinghelplinema.org\" rel=\"nofollow\">gamblinghelplinema.org</a> (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY). Please Gamble Responsibly. 888-789-7777/visit <a href=\"ccpg.org\" rel=\"nofollow\">ccpg.org</a> (CT), or visit <a href=\"www.mdgamblinghelp.org\" rel=\"nofollow\">www.mdgamblinghelp.org</a> (MD). 21&#43; and present in most states. (18&#43; DC/KY/NH/WY). Void in ONT/OR/NH. Eligibility restrictions apply. On behalf of Boot Hill Casino &amp; Resort (KS). Pass-thru of per wager tax may apply in IL. 1 per new customer. Must register new account to receive reward Token. Must select Token BEFORE placing min. $5 bet to receive $200 in Bonus Bets if your bet wins. Min. -500 odds req. Token and Bonus Bets are single-use and non-withdrawable. Token expires 1/11/26. Bonus Bets expire in 7 days (168 hours). Stake removed from payout. Terms: <a href=\"sportsbook.draftkings.com/promos\" rel=\"nofollow\">sportsbook.draftkings.com/promos</a>. Ends 1/4/26 at 11:59 PM ET. Sponsored by DK.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 7878036,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/7f5Z0bIEE5K3EMWgb0SJn0"
+        },
+        "href": "https://api.spotify.com/v1/episodes/7f5Z0bIEE5K3EMWgb0SJn0",
+        "id": "7f5Z0bIEE5K3EMWgb0SJn0",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a538a75554bed61fdd4a8747d",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f538a75554bed61fdd4a8747d",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d538a75554bed61fdd4a8747d",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2423 - John Cena",
+        "release_date": "2025-12-05",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:7f5Z0bIEE5K3EMWgb0SJn0"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/11HGfRMzKmxalHSR1FLqs4/clip_51000_119160.mp3",
+        "description": "Jensen Huang is the founder, president, and CEO of NVIDIA, the company whose 1999 invention of the GPU helped transform gaming, computer graphics, and accelerated computing. Under his leadership, NVIDIA has grown into a full-stack computing infrastructure company reshaping AI and data-center technology across industries.www.nvidia.com www.youtube.com/nvidia  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.  Visible. Live in the know. Join today at https://www.visible.com  Don’t miss out on all the action - Download the DraftKings app today! Sign-up at https://dkng.co/rogan or with my promo code ROGAN GAMBLING PROBLEM? CALL 1-800-GAMBLER, (800) 327-5050 or visit gamblinghelplinema.org (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY). Please Gamble Responsibly. 888-789-7777/visit ccpg.org (CT), or visit www.mdgamblinghelp.org (MD). 21+ and present in most states. (18+ DC/KY/NH/WY). Void in ONT/OR/NH. Eligibility restrictions apply. On behalf of Boot Hill Casino & Resort (KS). Pass-thru of per wager tax may apply in IL. 1 per new customer. Must register new account to receive reward Token. Must select Token BEFORE placing min. $5 bet to receive $200 in Bonus Bets if your bet wins. Min. -500 odds req. Token and Bonus Bets are single-use and non-withdrawable. Token expires 1/11/26. Bonus Bets expire in 7 days (168 hours). Stake removed from payout. Terms: sportsbook.draftkings.com/promos. Ends 1/4/26 at 11:59 PM ET. Sponsored by DK. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Jensen Huang is the founder, president, and CEO of NVIDIA, the company whose 1999 invention of the GPU helped transform gaming, computer graphics, and accelerated computing. Under his leadership, NVIDIA has grown into a full-stack computing infrastructure company reshaping AI and data-center technology across industries.<br />www.nvidia.com</p><br/><p>www.youtube.com/nvidia</p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p><br /></p><br/><p>Visible. Live in the know. Join today at <a href=\"https://www.visible.com\" rel=\"nofollow\">https://www.visible.com</a></p><br/><p><br /></p><br/><p>Don’t miss out on all the action - Download the DraftKings app today! Sign-up at <a href=\"https://dkng.co/rogan\" rel=\"nofollow\">https://dkng.co/rogan</a> or with my promo code ROGAN</p><br/><p>GAMBLING PROBLEM? CALL 1-800-GAMBLER, (800) 327-5050 or visit <a href=\"gamblinghelplinema.org\" rel=\"nofollow\">gamblinghelplinema.org</a> (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY). Please Gamble Responsibly. 888-789-7777/visit <a href=\"ccpg.org\" rel=\"nofollow\">ccpg.org</a> (CT), or visit <a href=\"www.mdgamblinghelp.org\" rel=\"nofollow\">www.mdgamblinghelp.org</a> (MD). 21&#43; and present in most states. (18&#43; DC/KY/NH/WY). Void in ONT/OR/NH. Eligibility restrictions apply. On behalf of Boot Hill Casino &amp; Resort (KS). Pass-thru of per wager tax may apply in IL. 1 per new customer. Must register new account to receive reward Token. Must select Token BEFORE placing min. $5 bet to receive $200 in Bonus Bets if your bet wins. Min. -500 odds req. Token and Bonus Bets are single-use and non-withdrawable. Token expires 1/11/26. Bonus Bets expire in 7 days (168 hours). Stake removed from payout. Terms: <a href=\"sportsbook.draftkings.com/promos\" rel=\"nofollow\">sportsbook.draftkings.com/promos</a>. Ends 1/4/26 at 11:59 PM ET. Sponsored by DK.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 8905727,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/0yT4ec9M6GobLC5ByN8pX3"
+        },
+        "href": "https://api.spotify.com/v1/episodes/0yT4ec9M6GobLC5ByN8pX3",
+        "id": "0yT4ec9M6GobLC5ByN8pX3",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a7a3853a397c30c7f4ff278ba",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f7a3853a397c30c7f4ff278ba",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d7a3853a397c30c7f4ff278ba",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2422 - Jensen Huang",
+        "release_date": "2025-12-03",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 5848000
+        },
+        "type": "episode",
+        "uri": "spotify:episode:0yT4ec9M6GobLC5ByN8pX3"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7C3xMwZoyeKdup7G7K25pL/clip_68000_133720.mp3",
+        "description": "Derek is the fitness educator and entrepreneur behind the \"More Plates, More Dates\" YouTube channel, podcast, and companion website.www.moreplatesmoredates.com www.youtube.com/@MorePlatesMoreDates  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.  Buy 1 Get 1 Free Trucker Hat with code ROGAN at https://happydad.com  This video is sponsored by BetterHelp. Visit https://BetterHelp.com/JRE  Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Derek is the fitness educator and entrepreneur behind the &#34;More Plates, More Dates&#34; YouTube channel, podcast, and companion website.<br />www.moreplatesmoredates.com</p><br/><p>www.youtube.com/&#64;MorePlatesMoreDates</p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p><br /></p><br/><p>Buy 1 Get 1 Free Trucker Hat with code ROGAN at <a href=\"https://happydad.com\" rel=\"nofollow\">https://happydad.com</a></p><br/><p><br /></p><br/><p>This video is sponsored by BetterHelp. Visit <a href=\"https://BetterHelp.com/JRE\" rel=\"nofollow\">https://BetterHelp.com/JRE</a></p><br/><p><br /></p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 10210260,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/2TZ9wXou7CRu4A3cTTe9ui"
+        },
+        "href": "https://api.spotify.com/v1/episodes/2TZ9wXou7CRu4A3cTTe9ui",
+        "id": "2TZ9wXou7CRu4A3cTTe9ui",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a92d38ba0dde0e285f91abcbb",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f92d38ba0dde0e285f91abcbb",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d92d38ba0dde0e285f91abcbb",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2421 - Derek, More Plates More Dates",
+        "release_date": "2025-12-02",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:2TZ9wXou7CRu4A3cTTe9ui"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5gFx35pef71Yo312bCv2XP/clip_163000_225720.mp3",
+        "description": "Chris Masterjohn, PhD, is a leading expert in nutritional science with a background in the biochemistry and molecular biology of nutrition. He is the host of the \"Mastering Nutrition\" podcast and founder of Mitomewww.chrismasterjohn-phd.comwww.mito.mewww.youtube.com/@chrismasterjohn Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Chris Masterjohn, PhD, is a leading expert in nutritional science with a background in the biochemistry and molecular biology of nutrition. He is the host of the &#34;Mastering Nutrition&#34; podcast and founder of Mitome<br />www.chrismasterjohn-phd.com<br />www.mito.me<br />www.youtube.com/&#64;chrismasterjohn</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 8365993,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/0ME2AXkR3e6nQQYMjbewjt"
+        },
+        "href": "https://api.spotify.com/v1/episodes/0ME2AXkR3e6nQQYMjbewjt",
+        "id": "0ME2AXkR3e6nQQYMjbewjt",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8af7f91fdccec3e9c1fe69b884",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1ff7f91fdccec3e9c1fe69b884",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68df7f91fdccec3e9c1fe69b884",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2420 - Chris Masterjohn",
+        "release_date": "2025-11-29",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:0ME2AXkR3e6nQQYMjbewjt"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1Y8ImpQ9GBiwaKe4EyLVaJ/clip_219000_279600.mp3",
+        "description": "John Lisle has a Ph.D. in history from the University of Texas, where he is now a professor of the history of science. His two books on the intelligence community are \"The Dirty Tricks Department\" and \"Project Mind Control: Sidney Gottlieb, the CIA, and the Tragedy of MKULTRA.\"www.johnlislehistorian.comhttps://us.macmillan.com/books/9781250338747/projectmindcontrol/  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.  Visible. Live in the know. Join today at https://www.visible.com  Don’t miss out on all the action - Download the DraftKings app today! Sign-up at https://dkng.co/rogan or with my promo code ROGAN •GAMBLING PROBLEM? CALL 1-800-GAMBLER, (800) 327-5050 or visit gamblinghelplinema.org (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY).Please Gamble Responsibly. 888-789-7777/visit ccpg.org (CT), or visit www.mdgamblinghelp.org (MD). 21+ and present in most states. (18+ DC/KY/NH/WY). Void in ONT/OR/NH. Eligibility restrictions apply. On behalf of Boot Hill Casino & Resort (KS). Pass-thru of per wager tax may apply in IL. 1 per new customer. Must register new account to receive reward Token. Must select Token BEFORE placing min. $5 bet to receive $200 in Bonus Bets if your bet wins. Min. -500 odds req. Token and Bonus Bets are single-use and non-withdrawable. Token expires 1/11/26. Bonus Bets expire in 7 days (168 hours). Stake removed from payout. Terms: sportsbook.draftkings.com/promos. Ends 1/4/26 at 11:59 PM ET. Sponsored by DK. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>John Lisle has a Ph.D. in history from the University of Texas, where he is now a professor of the history of science. His two books on the intelligence community are &#34;The Dirty Tricks Department&#34; and &#34;Project Mind Control: Sidney Gottlieb, the CIA, and the Tragedy of MKULTRA.&#34;<br />www.johnlislehistorian.com<br /><a href=\"https://us.macmillan.com/books/9781250338747/projectmindcontrol/\" rel=\"nofollow\">https://us.macmillan.com/books/9781250338747/projectmindcontrol/</a></p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.<br/>Visible. Live in the know. Join today at <a href=\"https://www.visible.com\" rel=\"nofollow\">https://www.visible.com</a><br/>Don’t miss out on all the action - Download the DraftKings app today! Sign-up at <a href=\"https://dkng.co/rogan\" rel=\"nofollow\">https://dkng.co/rogan</a> or with my promo code ROGAN<br/>•GAMBLING PROBLEM? CALL 1-800-GAMBLER, (800) 327-5050 or visit <a href=\"gamblinghelplinema.org\" rel=\"nofollow\">gamblinghelplinema.org</a> (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY).Please Gamble Responsibly. 888-789-7777/visit <a href=\"ccpg.org\" rel=\"nofollow\">ccpg.org</a> (CT), or visit <a href=\"www.mdgamblinghelp.org\" rel=\"nofollow\">www.mdgamblinghelp.org</a> (MD). 21&#43; and present in most states. (18&#43; DC/KY/NH/WY). Void in ONT/OR/NH. Eligibility restrictions apply. On behalf of Boot Hill Casino &amp; Resort (KS). Pass-thru of per wager tax may apply in IL. 1 per new customer. Must register new account to receive reward Token. Must select Token BEFORE placing min. $5 bet to receive $200 in Bonus Bets if your bet wins. Min. -500 odds req. Token and Bonus Bets are single-use and non-withdrawable. Token expires 1/11/26. Bonus Bets expire in 7 days (168 hours). Stake removed from payout. Terms: <a href=\"sportsbook.draftkings.com/promo\" rel=\"nofollow\">sportsbook.draftkings.com/promo</a>s. Ends 1/4/26 at 11:59 PM ET. Sponsored by DK.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 9554623,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/00cGljzTdHlIgmrfXhz6Us"
+        },
+        "href": "https://api.spotify.com/v1/episodes/00cGljzTdHlIgmrfXhz6Us",
+        "id": "00cGljzTdHlIgmrfXhz6Us",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a07a19f11f307b16e80caa38f",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f07a19f11f307b16e80caa38f",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d07a19f11f307b16e80caa38f",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2419 - John Lisle",
+        "release_date": "2025-11-27",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:00cGljzTdHlIgmrfXhz6Us"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/02S3rnIYfbFBJ8U4n2cclA/clip_84000_145040.mp3",
+        "description": "Chris Williamson is a podcaster, YouTuber, and host of the \"Modern Wisdom\" podcast. See him live on his \"Mostly Wise\" tour. https://chriswillx.com/modernwisdom  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.  Buy 1 Get 1 Free Trucker Hat with code ROGAN at https://happydad.com  Try ZipRecruiter FOR FREE at https://ziprecruiter.com/rogan Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Chris Williamson is a podcaster, YouTuber, and host of the &#34;Modern Wisdom&#34; podcast. See him live on his &#34;Mostly Wise&#34; tour.<br /></p><br/><p><a href=\"https://chriswillx.com/modernwisdom\" rel=\"nofollow\">https://chriswillx.com/modernwisdom</a></p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p><br /></p><br/><p>Buy 1 Get 1 Free Trucker Hat with code ROGAN at <a href=\"https://happydad.com\" rel=\"nofollow\">https://happydad.com</a></p><br/><p><br /></p><br/><p>Try ZipRecruiter FOR FREE at <a href=\"https://ziprecruiter.com/rogan\" rel=\"nofollow\">https://ziprecruiter.com/rogan</a></p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 10160446,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/6RXXwXJdwJBBtXnff8lC9g"
+        },
+        "href": "https://api.spotify.com/v1/episodes/6RXXwXJdwJBBtXnff8lC9g",
+        "id": "6RXXwXJdwJBBtXnff8lC9g",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a0725710d9914ef08e473c03a",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f0725710d9914ef08e473c03a",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d0725710d9914ef08e473c03a",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2418 - Chris Williamson",
+        "release_date": "2025-11-26",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 2212000
+        },
+        "type": "episode",
+        "uri": "spotify:episode:6RXXwXJdwJBBtXnff8lC9g"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2B7QVgkxM2jEqUHWh0dZ9U/clip_475813_535813.mp3",
+        "description": "Ben van Kerkwyk is an independent researcher and creator of UnchartedX.com and the UnchartedX YouTube channel, dedicated to exploring the mysteries of the past with a focus on ancient engineering, precision, and technology. www.unchartedx.com https://www.youtube.com/channel/UC2Stn8atEra7SMdPWyQoSLA https://rumble.com/c/UnchartedX  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.  Go to https://ExpressVPN.com/ROGAN to get 4 months free!  Don’t miss out on all the action - Download the DraftKings app today! Sign-up at https://dkng.co/rogan or with my promo code ROGAN GAMBLING PROBLEM? CALL 1-800-GAMBLER, (800) 327-5050 or visit gamblinghelplinema.org (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY).Please Gamble Responsibly. 888-789-7777/visit ccpg.org (CT), or visit www.mdgamblinghelp.org (MD). 21+ and present in most states. (18+ DC/KY/NH/WY). Void in ONT/OR/NH. Eligibility restrictions apply. On behalf of Boot Hill Casino & Resort (KS). Pass-thru of per wager tax may apply in IL. 1 per new customer. Must register new account to receive reward Token. Must select Token BEFORE placing min. $5 bet to receive $200 in Bonus Bets if your bet wins. Min. -500 odds req. Token and Bonus Bets are single-use and non-withdrawable. Token expires 1/11/26. Bonus Bets expire in 7 days (168 hours). Stake removed from payout. Terms: sportsbook.draftkings.com/promos. Ends 1/4/26 at 11:59 PM ET. Sponsored by DK. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Ben van Kerkwyk is an independent researcher and creator of UnchartedX.com and the UnchartedX YouTube channel, dedicated to exploring the mysteries of the past with a focus on ancient engineering, precision, and technology. <br />www.unchartedx.com</p><br/><p><a href=\"https://www.youtube.com/channel/UC2Stn8atEra7SMdPWyQoSLA\" rel=\"nofollow\">https://www.youtube.com/channel/UC2Stn8atEra7SMdPWyQoSLA</a></p><br/><p><a href=\"https://rumble.com/c/UnchartedX\" rel=\"nofollow\">https://rumble.com/c/UnchartedX</a></p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p><br /></p><br/><p>Go to <a href=\"https://ExpressVPN.com/ROGAN\" rel=\"nofollow\">https://ExpressVPN.com/ROGAN</a> to get 4 months free!</p><br/><p><br /></p><br/><p>Don’t miss out on all the action - Download the DraftKings app today! Sign-up at <a href=\"https://dkng.co/rogan\" rel=\"nofollow\">https://dkng.co/rogan</a> or with my promo code ROGAN</p><br/><p>GAMBLING PROBLEM? CALL 1-800-GAMBLER, (800) 327-5050 or visit <a href=\"gamblinghelplinema.org\" rel=\"nofollow\">gamblinghelplinema.org</a> (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY).Please Gamble Responsibly. 888-789-7777/visit <a href=\"ccpg.org\" rel=\"nofollow\">ccpg.org</a> (CT), or visit <a href=\"www.mdgamblinghelp.org\" rel=\"nofollow\">www.mdgamblinghelp.org</a> (MD). 21&#43; and present in most states. (18&#43; DC/KY/NH/WY). Void in ONT/OR/NH. Eligibility restrictions apply. On behalf of Boot Hill Casino &amp; Resort (KS). Pass-thru of per wager tax may apply in IL. 1 per new customer. Must register new account to receive reward Token. Must select Token BEFORE placing min. $5 bet to receive $200 in Bonus Bets if your bet wins. Min. -500 odds req. Token and Bonus Bets are single-use and non-withdrawable. Token expires 1/11/26. Bonus Bets expire in 7 days (168 hours). Stake removed from payout. Terms: <a href=\"sportsbook.draftkings.com/promos\" rel=\"nofollow\">sportsbook.draftkings.com/promos</a>. Ends 1/4/26 at 11:59 PM ET. Sponsored by DK.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 10104404,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/5ekjkjxI8W4CaHPHseQ9sT"
+        },
+        "href": "https://api.spotify.com/v1/episodes/5ekjkjxI8W4CaHPHseQ9sT",
+        "id": "5ekjkjxI8W4CaHPHseQ9sT",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a527b5db7999e2719edb10a6c",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f527b5db7999e2719edb10a6c",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d527b5db7999e2719edb10a6c",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2417 - Ben van Kerkwyk",
+        "release_date": "2025-11-25",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 7825000
+        },
+        "type": "episode",
+        "uri": "spotify:episode:5ekjkjxI8W4CaHPHseQ9sT"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6XWZ1K8vLgzVD2FRYydbEh/clip_111000_171000.mp3",
+        "description": "Dan Farah is the director and producer of \"The Age of Disclosure,\" a documentary revealing a 80-year global cover-up of the existence of non-human intelligent life, and a secret war among major nations to reverse-engineer advanced technology of non-human origin. See it now in select theaters and streaming on Amazon Prime Video.  www.theageofdisclosure.comwww.youtube.com/@TheAgeOfDisclosure Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Dan Farah is the director and producer of &#34;The Age of Disclosure,&#34; a documentary revealing a 80-year global cover-up of the existence of non-human intelligent life, and a secret war among major nations to reverse-engineer advanced technology of non-human origin. See it now in select theaters and streaming on Amazon Prime Video.  www.theageofdisclosure.com<br />www.youtube.com/&#64;TheAgeOfDisclosure</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 8679380,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/4lKO5WrDD8Jy3AmtKSul8I"
+        },
+        "href": "https://api.spotify.com/v1/episodes/4lKO5WrDD8Jy3AmtKSul8I",
+        "id": "4lKO5WrDD8Jy3AmtKSul8I",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a00d1ff6f418735eaf1a620d8",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f00d1ff6f418735eaf1a620d8",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d00d1ff6f418735eaf1a620d8",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2416 - Dan Farah",
+        "release_date": "2025-11-21",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 6593000
+        },
+        "type": "episode",
+        "uri": "spotify:episode:4lKO5WrDD8Jy3AmtKSul8I"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/70Mte6WJKHSaZKd61WGj9W/clip_48000_110360.mp3",
+        "description": "Adam Ray is a comic, actor, and the host of the podcast \"About Last Night.\" Catch his latest special, \"Adam Ray is Dr. Phil Unleashed\" on Netflix, and see him live on tour. https://adamraycomedy.com/ www.youtube.com/@adamraycomedywww.youtube.com/c/AboutLastNightPodcast  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.  Get a free welcome kit with your first subscription of AG1 at https://drinkag1.com/joerogan  This video is sponsored by BetterHelp. Visit https://BetterHelp.com/JRE Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Adam Ray is a comic, actor, and the host of the podcast &#34;About Last Night.&#34; Catch his latest special, &#34;Adam Ray is Dr. Phil Unleashed&#34; on Netflix, and see him live on tour.</p><br/><p><a href=\"https://adamraycomedy.com/\" rel=\"nofollow\">https://adamraycomedy.com/</a></p><br/><p>www.youtube.com/&#64;adamraycomedy<br />www.youtube.com/c/AboutLastNightPodcast</p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p><br /></p><br/><p>Get a free welcome kit with your first subscription of AG1 at <a href=\"https://drinkag1.com/joerogan\" rel=\"nofollow\">https://drinkag1.com/joerogan</a></p><br/><p><br /></p><br/><p>This video is sponsored by BetterHelp. Visit <a href=\"https://BetterHelp.com/JRE\" rel=\"nofollow\">https://BetterHelp.com/JRE</a></p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 8280638,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/5DFKkuyvmAIrzL14tq6LRO"
+        },
+        "href": "https://api.spotify.com/v1/episodes/5DFKkuyvmAIrzL14tq6LRO",
+        "id": "5DFKkuyvmAIrzL14tq6LRO",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a2cb6364933bd8b435b199cf8",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f2cb6364933bd8b435b199cf8",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d2cb6364933bd8b435b199cf8",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2415 - Adam Ray",
+        "release_date": "2025-11-20",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 7425000
+        },
+        "type": "episode",
+        "uri": "spotify:episode:5DFKkuyvmAIrzL14tq6LRO"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6L1gp2jwbFfqBydeYiBCuM/clip_128000_191840.mp3",
+        "description": "Brian Simpson is a comedian, host of the podcast “BS with Brian Simpson,” and host of the live Comedy Mothership show “Bottom of the Barrel.” Catch his Netflix special, “Live from the Mothership,” streaming now.www.briansimpson.comwww.youtube.com/@bswithbriansimpson  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.  Buy 1 Get 1 Free Trucker Hat with code ROGAN at https://happydad.com  Don’t miss out on all the action - Download the DraftKings app today! Sign-up at https://dkng.co/rogan or with my promo code ROGAN GAMBLING PROBLEM? CALL 1-800-GAMBLER, (800) 327-5050 or visit gamblinghelplinema.org (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY).Please Gamble Responsibly. 888-789-7777/visit ccpg.org (CT), or visit www.mdgamblinghelp.org (MD).  21+ and present in most states. (18+ DC/KY/NH/WY). Void in ONT/OR/NH. Eligibility restrictions apply. On behalf of Boot Hill Casino & Resort (KS).  Pass-thru of per wager tax may apply in IL. 1 per new customer. Must register new account to receive reward Token. Must select Token BEFORE placing min. $5 bet to receive $200 in Bonus Bets if your bet wins. Min. -500 odds req. Token and Bonus Bets are single-use and non-withdrawable. Token expires 1/11/26. Bonus Bets expire in 7 days (168 hours). Stake removed from payout. Terms: sportsbook.draftkings.com/promos. Ends 1/4/26 at 11:59 PM ET. Sponsored by DK Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Brian Simpson is a comedian, host of the podcast “BS with Brian Simpson,” and host of the live Comedy Mothership show “Bottom of the Barrel.” Catch his Netflix special, “Live from the Mothership,” streaming now.<br />www.briansimpson.com<br />www.youtube.com/&#64;bswithbriansimpson</p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p><br /></p><br/><p>Buy 1 Get 1 Free Trucker Hat with code ROGAN at <a href=\"https://happydad.com\" rel=\"nofollow\">https://happydad.com</a></p><br/><p><br /></p><br/><p>Don’t miss out on all the action - Download the DraftKings app today! Sign-up at <a href=\"https://dkng.co/rogan\" rel=\"nofollow\">https://dkng.co/rogan</a> or with my promo code ROGAN</p><br/><p>GAMBLING PROBLEM? CALL 1-800-GAMBLER, (800) 327-5050 or visit <a href=\"gamblinghelplinema.org\" rel=\"nofollow\">gamblinghelplinema.org</a> (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY).Please Gamble Responsibly. 888-789-7777/visit <a href=\"ccpg.org\" rel=\"nofollow\">ccpg.org</a> (CT), or visit <a href=\"www.mdgamblinghelp.org\" rel=\"nofollow\">www.mdgamblinghelp.org </a>(MD). </p><br/><p>21&#43; and present in most states. (18&#43; DC/KY/NH/WY). Void in ONT/OR/NH. Eligibility restrictions apply. On behalf of Boot Hill Casino &amp; Resort (KS). </p><br/><p>Pass-thru of per wager tax may apply in IL. 1 per new customer. Must register new account to receive reward Token. Must select Token BEFORE placing min. $5 bet to receive $200 in Bonus Bets if your bet wins. Min. -500 odds req. Token and Bonus Bets are single-use and non-withdrawable. Token expires 1/11/26. Bonus Bets expire in 7 days (168 hours). Stake removed from payout. Terms: <a href=\"sportsbook.draftkings.com/promos\" rel=\"nofollow\">sportsbook.draftkings.com/promos</a>. Ends 1/4/26 at 11:59 PM ET. Sponsored by DK</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 8446249,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/3eSr2B1rE7p7TrJhIXXbDo"
+        },
+        "href": "https://api.spotify.com/v1/episodes/3eSr2B1rE7p7TrJhIXXbDo",
+        "id": "3eSr2B1rE7p7TrJhIXXbDo",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a8fd3c63addbe699b6d90c72c",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f8fd3c63addbe699b6d90c72c",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d8fd3c63addbe699b6d90c72c",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2414 - Brian Simpson",
+        "release_date": "2025-11-19",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:3eSr2B1rE7p7TrJhIXXbDo"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/06lIkRcrRlTHSspGWVE8h3/clip_729000_790000.mp3",
+        "description": "Theo Von is a comic and host of the podcast \"This Past Weekend with Theo Von.\"www.theovon.comhttps://www.youtube.com/theovon  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.  Visible. Live in the know. Join today at https://www.visible.com  Visit https://blinds.com. 40% off your purchase with code ROGAN40 Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Theo Von is a comic and host of the podcast &#34;This Past Weekend with Theo Von.&#34;<br />www.theovon.com<br /><a href=\"https://www.youtube.com/theovon\" rel=\"nofollow\">https://www.youtube.com/theovon</a></p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p><br /></p><br/><p>Visible. Live in the know. Join today at <a href=\"https://www.visible.com\" rel=\"nofollow\">https://www.visible.com</a></p><br/><p><br /></p><br/><p>Visit <a href=\"https://blinds.com\" rel=\"nofollow\">https://blinds.com</a>. 40% off your purchase with code ROGAN40</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 10491540,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/0oERIV1pscwyPzkDgzGaNa"
+        },
+        "href": "https://api.spotify.com/v1/episodes/0oERIV1pscwyPzkDgzGaNa",
+        "id": "0oERIV1pscwyPzkDgzGaNa",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a2a533dc015d2a05ee233dcd9",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f2a533dc015d2a05ee233dcd9",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d2a533dc015d2a05ee233dcd9",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2413 - Theo Von",
+        "release_date": "2025-11-18",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:0oERIV1pscwyPzkDgzGaNa"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2NKLzm6KehiaTuQM1gWyvk/clip_64000_126920.mp3",
+        "description": "Adam Carolla is a comic, actor, author, and host of “The Adam Carolla Show” podcast. His latest special, “Adam Carolla Comes Cleaner,” is available exclusively on Dry Bar Comedy Plus, the Angel app, and Angel.com. www.adamcarolla.com https://www.angel.com/watch/adam-carolla-comes-cleanerwww.youtube.com/@TheAdamCarollaShow1  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.  Buy 1 Get 1 Free Trucker Hat with code ROGAN at https://happydad.com  Go to https://roka.com for Black Friday deals. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Adam Carolla is a comic, actor, author, and host of “The Adam Carolla Show” podcast. His latest special, “Adam Carolla Comes Cleaner,” is available exclusively on Dry Bar Comedy Plus, the Angel app, and Angel.com. <br />www.adamcarolla.com</p><br/><p><a href=\"https://www.angel.com/watch/adam-carolla-comes-cleaner\" rel=\"nofollow\">https://www.angel.com/watch/adam-carolla-comes-cleaner</a><br />www.youtube.com/&#64;TheAdamCarollaShow1</p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p><br /></p><br/><p>Buy 1 Get 1 Free Trucker Hat with code ROGAN at <a href=\"https://happydad.com\" rel=\"nofollow\">https://happydad.com</a></p><br/><p><br /></p><br/><p>Go to <a href=\"https://roka.com\" rel=\"nofollow\">https://roka.com</a> for Black Friday deals.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 10447401,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/05OApGmZFDZefZ3nJA2WWp"
+        },
+        "href": "https://api.spotify.com/v1/episodes/05OApGmZFDZefZ3nJA2WWp",
+        "id": "05OApGmZFDZefZ3nJA2WWp",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a1c6a2c345405a96c83bd11a0",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f1c6a2c345405a96c83bd11a0",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d1c6a2c345405a96c83bd11a0",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2412 - Adam Carolla",
+        "release_date": "2025-11-14",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:05OApGmZFDZefZ3nJA2WWp"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0ep3GKfBtSk27aTXi9FFzE/clip_65000_125560.mp3",
+        "description": "Gavin de Becker is a security expert and the founder of Gavin de Becker & Associates, a firm specializing in threat assessment and protective services. He is the author of several books, including his most recent, \"Forbidden Facts: Government Deceit & Suppression About Brain Damage from Childhood Vaccines.\"www.gdba.com www.skyhorsepublishing.com/9781510785953/forbidden-facts/  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.  Get a free welcome kit with your first subscription of AG1 at https://drinkag1.com/joerogan  Visit https://blackriflecoffee.com/joe-rogan and use code ROGAN for 30% Off Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Gavin de Becker is a security expert and the founder of Gavin de Becker &amp; Associates, a firm specializing in threat assessment and protective services. He is the author of several books, including his most recent, &#34;Forbidden Facts: Government Deceit &amp; Suppression About Brain Damage from Childhood Vaccines.&#34;<br />www.gdba.com</p><br/><p>www.skyhorsepublishing.com/9781510785953/forbidden-facts/</p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p><br /></p><br/><p>Get a free welcome kit with your first subscription of AG1 at <a href=\"https://drinkag1.com/joerogan\" rel=\"nofollow\">https://drinkag1.com/joerogan</a></p><br/><p><br /></p><br/><p>Visit <a href=\"https://blackriflecoffee.com/joe-rogan\" rel=\"nofollow\">https://blackriflecoffee.com/joe-rogan</a> and use code ROGAN for 30% Off</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 8989588,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/5WtadlmloeZkwYkPilDNZV"
+        },
+        "href": "https://api.spotify.com/v1/episodes/5WtadlmloeZkwYkPilDNZV",
+        "id": "5WtadlmloeZkwYkPilDNZV",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a7c52fc28d7079a8ae1ff7f58",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f7c52fc28d7079a8ae1ff7f58",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d7c52fc28d7079a8ae1ff7f58",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2411 - Gavin de Becker",
+        "release_date": "2025-11-13",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 9000
+        },
+        "type": "episode",
+        "uri": "spotify:episode:5WtadlmloeZkwYkPilDNZV"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3s22yAfdSFWQ0gNV1psBoy/clip_25000_85960.mp3",
+        "description": "Jeff Dye is a comic, actor, broadcast personality, and host of the podcast \"Dye Hard with Jeff Dye.\" His latest special, \"The Last Cowboy in LA,\" is available to stream on YouTube.  www.jeffdye.com  www.youtube.com/@JeffDye https://youtu.be/lwRz8rvGizI?si=t2W7x_0-PKkV6QZb  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.  Buy 1 Get 1 Free Trucker Hat with code ROGAN at https://happydad.com  This video is sponsored by BetterHelp. Visit https://BetterHelp.com/JRE Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Jeff Dye is a comic, actor, broadcast personality, and host of the podcast &#34;Dye Hard with Jeff Dye.&#34; His latest special, &#34;The Last Cowboy in LA,&#34; is available to stream on YouTube. </p><br/><p>www.jeffdye.com</p><br/><p> www.youtube.com/&#64;JeffDye</p><br/><p><a href=\"https://youtu.be/lwRz8rvGizI?si&#61;t2W7x_0-PKkV6QZb\" rel=\"nofollow\">https://youtu.be/lwRz8rvGizI?si&#61;t2W7x_0-PKkV6QZb</a></p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p><br /></p><br/><p>Buy 1 Get 1 Free Trucker Hat with code ROGAN at <a href=\"https://happydad.com\" rel=\"nofollow\">https://happydad.com</a></p><br/><p><br /></p><br/><p>This video is sponsored by BetterHelp. Visit <a href=\"https://BetterHelp.com/JRE\" rel=\"nofollow\">https://BetterHelp.com/JRE</a></p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 10903103,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/13CjWUlhL7VtffXwbVOEz2"
+        },
+        "href": "https://api.spotify.com/v1/episodes/13CjWUlhL7VtffXwbVOEz2",
+        "id": "13CjWUlhL7VtffXwbVOEz2",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8af9b26e1d8b042c5f433b420b",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1ff9b26e1d8b042c5f433b420b",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68df9b26e1d8b042c5f433b420b",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2410 - Jeff Dye",
+        "release_date": "2025-11-12",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:13CjWUlhL7VtffXwbVOEz2"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3yuKpaLNOVgTumMr9NAh36/clip_41000_108280.mp3",
+        "description": "Brian Redban is a stand-up comic, producer, co-host of the podcast and live-streaming YouTube show \"Kill Tony,\" founder of the Deathsquad podcast network, and a co-owner of the Sunset Strip Comedy Club in Austin. www.deathsquad.tv  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.  Buy 1 Get 1 Free Trucker Hat with code ROGAN at https://happydad.com  Don’t miss out on all the action - Download the DraftKings app today! Sign-up at https://dkng.co/rogan or with my promo code ROGAN GAMBLING PROBLEM? CALL 1-800-GAMBLER, (800) 327-5050 or visit gamblinghelplinema.org (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY). Please Gamble Responsibly. 888-789-7777/visit ccpg.org (CT), or visit www.mdgamblinghelp.org (MD). 21+ and present in most states. (18+ DC/KY/NH/WY). Void in NH/OR/ONT. Eligibility restrictions apply. Terms: draftkings.com/sportsbook. On behalf of Boot Hill Casino & Resort (KS). Fees may apply in IL. 1 per new customer. Must register new account to receive reward Token. Must select Token BEFORE placing min. $5 bet to receive $300 in Bonus Bets if your bet wins. Min. -500 odds req. Token and Bonus Bets are single-use and non-withdrawable. Token expires 11/23/25. Bonus Bets expire in 7 days (168 hours). Stake removed from payout. Terms: sportsbook.draftkings.com/promos. Ends 11/16/25 at 11:59 PM ET. Sponsored by DK. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Brian Redban is a stand-up comic, producer, co-host of the podcast and live-streaming YouTube show &#34;Kill Tony,&#34; founder of the Deathsquad podcast network, and a co-owner of the Sunset Strip Comedy Club in Austin. <br />www.deathsquad.tv</p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p><br /></p><br/><p>Buy 1 Get 1 Free Trucker Hat with code ROGAN at <a href=\"https://happydad.com\" rel=\"nofollow\">https://happydad.com</a></p><br/><p><br /></p><br/><p>Don’t miss out on all the action - Download the DraftKings app today! Sign-up at <a href=\"https://dkng.co/rogan\" rel=\"nofollow\">https://dkng.co/rogan</a> or with my promo code ROGAN</p><br/><p>GAMBLING PROBLEM? CALL 1-800-GAMBLER, (800) 327-5050 or visit <a href=\"gamblinghelplinema.org\" rel=\"nofollow\">gamblinghelplinema.org</a> (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY). Please Gamble Responsibly. 888-789-7777/visit <a href=\"ccpg.org\" rel=\"nofollow\">ccpg.org</a> (CT), or visit <a href=\"www.mdgamblinghelp.org\" rel=\"nofollow\">www.mdgamblinghelp.org</a> (MD). 21&#43; and present in most states. (18&#43; DC/KY/NH/WY). Void in NH/OR/ONT. Eligibility restrictions apply. Terms: <a href=\"draftkings.com/sportsbook\" rel=\"nofollow\">draftkings.com/sportsbook</a>. On behalf of Boot Hill Casino &amp; Resort (KS). Fees may apply in IL. 1 per new customer. Must register new account to receive reward Token. Must select Token BEFORE placing min. $5 bet to receive $300 in Bonus Bets if your bet wins. Min. -500 odds req. Token and Bonus Bets are single-use and non-withdrawable. Token expires 11/23/25. Bonus Bets expire in 7 days (168 hours). Stake removed from payout. Terms: <a href=\"sportsbook.draftkings.com/promos\" rel=\"nofollow\">sportsbook.draftkings.com/promos</a>. Ends 11/16/25 at 11:59 PM ET. Sponsored by DK.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 10313961,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/2Ic3fd5EIO8jmnxXeJ5aIb"
+        },
+        "href": "https://api.spotify.com/v1/episodes/2Ic3fd5EIO8jmnxXeJ5aIb",
+        "id": "2Ic3fd5EIO8jmnxXeJ5aIb",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8afa452988ed5e7c90e332ac03",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1ffa452988ed5e7c90e332ac03",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68dfa452988ed5e7c90e332ac03",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2409 - Brian Redban",
+        "release_date": "2025-11-11",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 5427000
+        },
+        "type": "episode",
+        "uri": "spotify:episode:2Ic3fd5EIO8jmnxXeJ5aIb"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/442G8BUHyNuUxqZzFSDmly/clip_412000_479080.mp3",
+        "description": "Bret Weinstein, PhD, is an evolutionary biologist, author, and co-host of “The DarkHorse Podcast” with his wife, biologist Heather Heying. They are the co-authors of “A Hunter-Gatherer’s Guide to the 21st Century: Evolution and the Challenges of Modern Life.”www.bretweinstein.netwww.youtube.com/@DarkHorsePodwww.penguinrandomhouse.com/books/618153/a-hunter-gatherers-guide-to-the-21st-century-by-heather-heying-and-bret-weinstein/  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.  Buy 1 Get 1 Free Trucker Hat with code ROGAN at https://happydad.com  Visit https://tractorsupply.com/hometownheroes Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Bret Weinstein, PhD, is an evolutionary biologist, author, and co-host of “The DarkHorse Podcast” with his wife, biologist Heather Heying. They are the co-authors of “A Hunter-Gatherer’s Guide to the 21st Century: Evolution and the Challenges of Modern Life.”<br />www.bretweinstein.net<br />www.youtube.com/&#64;DarkHorsePod<br />www.penguinrandomhouse.com/books/618153/a-hunter-gatherers-guide-to-the-21st-century-by-heather-heying-and-bret-weinstein/</p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p><br /></p><br/><p>Buy 1 Get 1 Free Trucker Hat with code ROGAN at <a href=\"https://happydad.com\" rel=\"nofollow\">https://happydad.com</a></p><br/><p><br /></p><br/><p>Visit <a href=\"https://tractorsupply.com/hometownheroes\" rel=\"nofollow\">https://tractorsupply.com/hometownheroes</a></p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 11283198,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/6ku2bwRjJDt3xmo0Q04kkv"
+        },
+        "href": "https://api.spotify.com/v1/episodes/6ku2bwRjJDt3xmo0Q04kkv",
+        "id": "6ku2bwRjJDt3xmo0Q04kkv",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8aa99fd8a96e072104407f76c8",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1fa99fd8a96e072104407f76c8",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68da99fd8a96e072104407f76c8",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2408 - Bret Weinstein",
+        "release_date": "2025-11-08",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:6ku2bwRjJDt3xmo0Q04kkv"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0pQO4mYbmeFauVl5K2n8tX/clip_123000_181000.mp3",
+        "description": "Billy Bob Thornton is an Academy Award–winning actor, filmmaker, and musician. He currently stars as Tommy Norris in the Paramount+ series “Landman” and is the lead singer of The Boxmasters. Season two of “Landman” premieres on November 16. “Pepper Tree Hill,” the latest album from The Boxmasters, is available now.www.paramountplus.com/shows/landman/www.theboxmasters.com  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.  Get a free welcome kit with your first subscription of AG1 at https://drinkag1.com/joerogan  Take 50% off a SimpliSafe system at https://simplisafe.com/ROGAN Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Billy Bob Thornton is an Academy Award–winning actor, filmmaker, and musician. He currently stars as Tommy Norris in the Paramount&#43; series “Landman” and is the lead singer of The Boxmasters. Season two of “Landman” premieres on November 16. “Pepper Tree Hill,” the latest album from The Boxmasters, is available now.<br />www.paramountplus.com/shows/landman/<br />www.theboxmasters.com</p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p><br /></p><br/><p>Get a free welcome kit with your first subscription of AG1 at <a href=\"https://drinkag1.com/joerogan\" rel=\"nofollow\">https://drinkag1.com/joerogan</a></p><br/><p><br /></p><br/><p>Take 50% off a SimpliSafe system at <a href=\"https://simplisafe.com/ROGAN\" rel=\"nofollow\">https://simplisafe.com/ROGAN</a></p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 10708095,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/7fGfgmMCtD2YGERBc2u1zA"
+        },
+        "href": "https://api.spotify.com/v1/episodes/7fGfgmMCtD2YGERBc2u1zA",
+        "id": "7fGfgmMCtD2YGERBc2u1zA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8abcca6667dbef48164e7b5591",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1fbcca6667dbef48164e7b5591",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68dbcca6667dbef48164e7b5591",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2407 - Billy Bob Thornton",
+        "release_date": "2025-11-07",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 8160000
+        },
+        "type": "episode",
+        "uri": "spotify:episode:7fGfgmMCtD2YGERBc2u1zA"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5eRpSTPuLq2p27gUAY72kg/clip_162000_223840.mp3",
+        "description": "Russell Crowe is an Academy Award–winning actor, director, and vocalist of the band Indoor Garden Party. His latest film role is that of Nazi war criminal Hermann Göring in the historical drama “Nuremberg,” which premieres in theaters on November 7. https://www.sonyclassics.com/film/nuremberg/www.indoorgardenparty.com  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.  Try ZipRecruiter FOR FREE at https://ziprecruiter.com/rogan  Get Gameday Deals all season long only on Uber Eats. Order Now. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Russell Crowe is an Academy Award–winning actor, director, and vocalist of the band Indoor Garden Party. His latest film role is that of Nazi war criminal Hermann Göring in the historical drama “Nuremberg,” which premieres in theaters on November 7.</p><br/><p><a href=\"https://www.sonyclassics.com/film/nuremberg/\" rel=\"nofollow\">https://www.sonyclassics.com/film/nuremberg/</a><br />www.indoorgardenparty.com</p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p><br /></p><br/><p>Try ZipRecruiter FOR FREE at <a href=\"https://ziprecruiter.com/rogan\" rel=\"nofollow\">https://ziprecruiter.com/rogan</a></p><br/><p><br /></p><br/><p>Get Gameday Deals all season long only on Uber Eats. Order Now.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 10695188,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/7fLRxPyzzNxVPnuAKp4ILL"
+        },
+        "href": "https://api.spotify.com/v1/episodes/7fLRxPyzzNxVPnuAKp4ILL",
+        "id": "7fLRxPyzzNxVPnuAKp4ILL",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8afc5257f0f8c20dec68fe5fcc",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1ffc5257f0f8c20dec68fe5fcc",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68dfc5257f0f8c20dec68fe5fcc",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2406 - Russell Crowe",
+        "release_date": "2025-11-05",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:7fLRxPyzzNxVPnuAKp4ILL"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/11KK2rwFjjod9swXeMFaWP/clip_127000_190320.mp3",
+        "description": "Luis J. Gomez and Big Jay Oakerson are comics and podcasters. Together, they host “Story Warz” and “Legion of Skanks” with Dave Smith. Luis also hosts “Real Ass Podcast” with Zac Amico, and Big Jay hosts “The Bonfire” on SiriusXM with Robert Kelly. Big Jay’s two-part crowdwork special, “Them/They,” is available on YouTube and vinyl, and Luis’s new special, “You’re Making This Worse,” premieres on YouTube on November 2.www.luisofskanks.comwww.youtube.com/@LuisJGomezComedywww.bigjaycomedy.comwww.youtube.com/@bigjayoakerson https://800poundgorillamedia.com/pages/bigjay  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.  Don’t miss out on all the action - Download the DraftKings app today! Sign-up at https://dkng.co/rogan or with my promo code ROGAN GAMBLING PROBLEM? CALL 1-800-GAMBLER, (800) 327-5050 or visit gamblinghelplinema.org (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY). Please Gamble Responsibly. 888-789-7777/visit ccpg.org (CT), or visit www.mdgamblinghelp.org (MD). 21+ and present in most states. (18+ DC/KY/NH/WY). Void in NH/OR/ONT. Eligibility restrictions apply. Terms: draftkings.com/sportsbook. On behalf of Boot Hill Casino & Resort (KS). Fees may apply in IL. 1 per new DraftKings customer. Must register new DraftKings account to receive reward Token. Must select Token BEFORE placing min. $5 bet to get 1 promo code to redeem complimentary 3-month NBA League Pass subscription, and max. $300 in Bonus Bets if your bet wins. Min. -500 odds req. Token and Bonus Bets are single-use and non-withdrawable. Bonus Bet expires in 7 days (168 hours) and stake removed from payout. Token expires 11/23/25. Terms: sportsbook.draftkings.com/promos. NBA League Pass: Subscription auto-renews monthly at then-current price (currently $16.99/mo); cancel anytime. Terms, restrictions, and eligibility requirements apply. Redeem League Pass by 12/19/25  This video is sponsored by BetterHelp. Visit https://BetterHelp.com/JRE Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Luis J. Gomez and Big Jay Oakerson are comics and podcasters. Together, they host “Story Warz” and “Legion of Skanks” with Dave Smith. Luis also hosts “Real Ass Podcast” with Zac Amico, and Big Jay hosts “The Bonfire” on SiriusXM with Robert Kelly. Big Jay’s two-part crowdwork special, “Them/They,” is available on YouTube and vinyl, and Luis’s new special, “You’re Making This Worse,” premieres on YouTube on November 2.<br />www.luisofskanks.com<br />www.youtube.com/&#64;LuisJGomezComedy<br />www.bigjaycomedy.com<br />www.youtube.com/&#64;bigjayoakerson</p><br/><p><a href=\"https://800poundgorillamedia.com/pages/bigjay\" rel=\"nofollow\">https://800poundgorillamedia.com/pages/bigjay</a></p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p><br /></p><br/><p>Don’t miss out on all the action - Download the DraftKings app today! Sign-up at <a href=\"https://dkng.co/rogan\" rel=\"nofollow\">https://dkng.co/rogan</a> or with my promo code ROGAN</p><br/><p>GAMBLING PROBLEM? CALL 1-800-GAMBLER, (800) 327-5050 or visit <a href=\"gamblinghelplinema.org\" rel=\"nofollow\">gamblinghelplinema.org</a> (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY). Please Gamble Responsibly. 888-789-7777/visit <a href=\"ccpg.org\" rel=\"nofollow\">ccpg.org</a> (CT), or visit <a href=\"www.mdgamblinghelp.org\" rel=\"nofollow\">www.mdgamblinghelp.org</a> (MD). 21&#43; and present in most states. (18&#43; DC/KY/NH/WY). Void in NH/OR/ONT. Eligibility restrictions apply. Terms: <a href=\"draftkings.com/sportsbook\" rel=\"nofollow\">draftkings.com/sportsbook</a>. On behalf of Boot Hill Casino &amp; Resort (KS). Fees may apply in IL. 1 per new DraftKings customer. Must register new DraftKings account to receive reward Token. Must select Token BEFORE placing min. $5 bet to get 1 promo code to redeem complimentary 3-month NBA League Pass subscription, and max. $300 in Bonus Bets if your bet wins. Min. -500 odds req. Token and Bonus Bets are single-use and non-withdrawable. Bonus Bet expires in 7 days (168 hours) and stake removed from payout. Token expires 11/23/25. Terms: <a href=\"sportsbook.draftkings.com/promos\" rel=\"nofollow\">sportsbook.draftkings.com/promos</a>. NBA League Pass: Subscription auto-renews monthly at then-current price (currently $16.99/mo); cancel anytime. Terms, restrictions, and eligibility requirements apply. Redeem League Pass by 12/19/25</p><br/><p><br /></p><br/><p>This video is sponsored by BetterHelp. Visit <a href=\"https://BetterHelp.com/JRE\" rel=\"nofollow\">https://BetterHelp.com/JRE</a></p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 10365289,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/5U72TwiPqxO13kcYOgUC46"
+        },
+        "href": "https://api.spotify.com/v1/episodes/5U72TwiPqxO13kcYOgUC46",
+        "id": "5U72TwiPqxO13kcYOgUC46",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9cdaeb4233d73e8fa663ab8d",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f9cdaeb4233d73e8fa663ab8d",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d9cdaeb4233d73e8fa663ab8d",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2405 - Luis J Gomez & Big Jay Oakerson",
+        "release_date": "2025-11-04",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:5U72TwiPqxO13kcYOgUC46"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6dUcxFQQ6O35ZlNfBLXN5W/clip_111000_170000.mp3",
+        "description": "Elon Musk is a business magnate, designer, and engineer known for his work in electric vehicles, private spaceflight, and artificial intelligence. His portfolio of companies includes Tesla, SpaceX, Neuralink, X, and several others.https://x.com/elonmusk Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Elon Musk is a business magnate, designer, and engineer known for his work in electric vehicles, private spaceflight, and artificial intelligence. His portfolio of companies includes Tesla, SpaceX, Neuralink, X, and several others.<br /><a href=\"https://x.com/elonmusk\" rel=\"nofollow\">https://x.com/elonmusk</a></p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 11905535,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/6vBr2kDnmrUu17xdiRVbXR"
+        },
+        "href": "https://api.spotify.com/v1/episodes/6vBr2kDnmrUu17xdiRVbXR",
+        "id": "6vBr2kDnmrUu17xdiRVbXR",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a7467a2251d60c69b8843560e",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f7467a2251d60c69b8843560e",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d7467a2251d60c69b8843560e",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2404 - Elon Musk",
+        "release_date": "2025-10-31",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 10818000
+        },
+        "type": "episode",
+        "uri": "spotify:episode:6vBr2kDnmrUu17xdiRVbXR"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2kUabg127yfCUWlon8mE5F/clip_81000_141000.mp3",
+        "description": "Andrew Gallimore, PhD, is a chemical pharmacologist and neurobiologist. He is one of the world’s leading experts on psychedelics and the author of several books, including his most recent, “Death by Astonishment: Confronting the Mystery of the World’s Strangest Drug.” www.buildingalienworlds.comhttps://www.youtube.com/c/alieninsecthttps://read.macmillan.com/lp/death-by-astonishment-9781250357755/  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.  Visit https://squarespace.com/ROGAN to save 10% off your first purchase of a website. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Andrew Gallimore, PhD, is a chemical pharmacologist and neurobiologist. He is one of the world’s leading experts on psychedelics and the author of several books, including his most recent, “Death by Astonishment: Confronting the Mystery of the World’s Strangest Drug.”</p><br/><p>www.buildingalienworlds.com<br /><a href=\"https://www.youtube.com/c/alieninsect\" rel=\"nofollow\">https://www.youtube.com/c/alieninsect</a><br /><a href=\"https://read.macmillan.com/lp/death-by-astonishment-9781250357755/\" rel=\"nofollow\">https://read.macmillan.com/lp/death-by-astonishment-9781250357755/</a></p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p><br /></p><br/><p>Visit <a href=\"https://squarespace.com/ROGAN\" rel=\"nofollow\">https://squarespace.com/ROGAN</a> to save 10% off your first purchase of a website.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 9316948,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/6vBvbWNoBWkeCwPdQM029u"
+        },
+        "href": "https://api.spotify.com/v1/episodes/6vBvbWNoBWkeCwPdQM029u",
+        "id": "6vBvbWNoBWkeCwPdQM029u",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a021193ba03f210caa3b42af3",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f021193ba03f210caa3b42af3",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d021193ba03f210caa3b42af3",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2403 - Andrew Gallimore",
+        "release_date": "2025-10-30",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:6vBvbWNoBWkeCwPdQM029u"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0uqACsKr2aLfeKIarf0NYJ/clip_67000_129639.mp3",
+        "description": "Miranda Lambert is a country musician who performs both as a solo artist and as a member of the band Pistol Annies. Her recent releases include “A Song to Sing,” a single recorded with Chris Stapleton; “Postcards from Texas,” a solo album; and “Hell of a Holiday,” an album recorded with Pistol Annies. She’s also the author, with Holly Gleason, of the cookbook “Y’all Eat Yet? Welcome to the Pretty B*tchin’ Kitchen.” In addition, she has her own clothing line, Idyllwind, and winery, Red 55, and oversees the pet charity MuttNation.www.mirandalambert.com www.idyllwind.com www.red55winery.com www.muttnation.com  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.  Go to ExpressVPN.com/ROGAN to get 4 months free!  Don’t miss out on all the action - Download the DraftKings app today! Sign-up at https://dkng.co/rogan or with my promo code ROGAN GAMBLING PROBLEM? CALL 1-800-GAMBLER, (800) 327-5050 or visit gamblinghelplinema.org (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY). Please Gamble Responsibly. 888-789-7777/visit ccpg.org (CT), or visit www.mdgamblinghelp.org (MD). 21+ and present in most states. (18+ DC/KY/NH/WY). Void in NH/OR/ONT. Eligibility restrictions apply. Terms: draftkings.com/sportsbook. On behalf of Boot Hill Casino & Resort (KS). Fees may apply in IL. 1 per new DraftKings customer. Must register new DraftKings account to receive reward Token. Must select Token BEFORE placing min. $5 bet to get 1 promo code to redeem complimentary 3-month NBA League Pass subscription, and max. $300 in Bonus Bets if your bet wins. Min. -500 odds req. Token and Bonus Bets are single-use and non-withdrawable. Bonus Bet expires in 7 days (168 hours) and stake removed from payout. Token expires 11/23/25. Terms: sportsbook.draftkings.com/promos. NBA League Pass: Subscription auto-renews monthly at then-current price (currently $16.99/mo); cancel anytime. Terms, restrictions, and eligibility requirements apply. Redeem League Pass by 12/19/25 Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Miranda Lambert is a country musician who performs both as a solo artist and as a member of the band Pistol Annies. Her recent releases include “A Song to Sing,” a single recorded with Chris Stapleton; “Postcards from Texas,” a solo album; and “Hell of a Holiday,” an album recorded with Pistol Annies. She’s also the author, with Holly Gleason, of the cookbook “Y’all Eat Yet? Welcome to the Pretty B*tchin’ Kitchen.” In addition, she has her own clothing line, Idyllwind, and winery, Red 55, and oversees the pet charity MuttNation.<br />www.mirandalambert.com</p><br/><p>www.idyllwind.com</p><br/><p>www.red55winery.com</p><br/><p>www.muttnation.com</p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p><br /></p><br/><p>Go to <a href=\"ExpressVPN.com/ROGAN\" rel=\"nofollow\">ExpressVPN.com/ROGAN</a> to get 4 months free!</p><br/><p><br /></p><br/><p>Don’t miss out on all the action - Download the DraftKings app today! Sign-up at <a href=\"https://dkng.co/rogan\" rel=\"nofollow\">https://dkng.co/rogan</a> or with my promo code ROGAN</p><br/><p>GAMBLING PROBLEM? CALL 1-800-GAMBLER, (800) 327-5050 or visit <a href=\"gamblinghelplinema.org\" rel=\"nofollow\">gamblinghelplinema.org</a> (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY). Please Gamble Responsibly. 888-789-7777/visit <a href=\"ccpg.org\" rel=\"nofollow\">ccpg.org</a> (CT), or visit <a href=\"www.mdgamblinghelp.org\" rel=\"nofollow\">www.mdgamblinghelp.org</a> (MD). 21&#43; and present in most states. (18&#43; DC/KY/NH/WY). Void in NH/OR/ONT. Eligibility restrictions apply. Terms: <a href=\"draftkings.com/sportsbook\" rel=\"nofollow\">draftkings.com/sportsbook</a>. On behalf of Boot Hill Casino &amp; Resort (KS). Fees may apply in IL. 1 per new DraftKings customer. Must register new DraftKings account to receive reward Token. Must select Token BEFORE placing min. $5 bet to get 1 promo code to redeem complimentary 3-month NBA League Pass subscription, and max. $300 in Bonus Bets if your bet wins. Min. -500 odds req. Token and Bonus Bets are single-use and non-withdrawable. Bonus Bet expires in 7 days (168 hours) and stake removed from payout. Token expires 11/23/25. Terms: <a href=\"sportsbook.draftkings.com/promos\" rel=\"nofollow\">sportsbook.draftkings.com/promos</a>. NBA League Pass: Subscription auto-renews monthly at then-current price (currently $16.99/mo); cancel anytime. Terms, restrictions, and eligibility requirements apply. Redeem League Pass by 12/19/25</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 8987241,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/7sivfFGQmFxsvSCluJcwsj"
+        },
+        "href": "https://api.spotify.com/v1/episodes/7sivfFGQmFxsvSCluJcwsj",
+        "id": "7sivfFGQmFxsvSCluJcwsj",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8ab356ef30d374de7a0cec96c7",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1fb356ef30d374de7a0cec96c7",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68db356ef30d374de7a0cec96c7",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2402 - Miranda Lambert",
+        "release_date": "2025-10-29",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:7sivfFGQmFxsvSCluJcwsj"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/20Drb6dpqqQKX6YNdjHtaH/clip_84000_143000.mp3",
+        "description": "Avi Loeb, PhD, is a theoretical physicist and Frank B. Baird, Jr., Professor of Science at Harvard University. He is the author of several books, the most recent of which is \"Interstellar: The Search for Extraterrestrial Life and Our Future in the Stars.\" https://lweb.cfa.harvard.edu/~loeb/  Buy 1 Get 1 Free Trucker Hat with code ROGAN at https://happydad.com  A House of Dynamite, now streaming only on Netflix. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Avi Loeb, PhD, is a theoretical physicist and Frank B. Baird, Jr., Professor of Science at Harvard University. He is the author of several books, the most recent of which is &#34;Interstellar: The Search for Extraterrestrial Life and Our Future in the Stars.&#34;</p><br/><p><a href=\"https://lweb.cfa.harvard.edu/~loeb/\" rel=\"nofollow\">https://lweb.cfa.harvard.edu/~loeb/</a></p><br/><p><br /></p><br/><p>Buy 1 Get 1 Free Trucker Hat with code ROGAN at <a href=\"https://happydad.com\" rel=\"nofollow\">https://happydad.com</a></p><br/><p><br /></p><br/><p>A House of Dynamite, now streaming only on Netflix.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 8095145,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/0CcIFpY5CHuYXmkdjmnhBa"
+        },
+        "href": "https://api.spotify.com/v1/episodes/0CcIFpY5CHuYXmkdjmnhBa",
+        "id": "0CcIFpY5CHuYXmkdjmnhBa",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a2b5b1a26564ca1cac876ea04",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f2b5b1a26564ca1cac876ea04",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d2b5b1a26564ca1cac876ea04",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2401 - Avi Loeb",
+        "release_date": "2025-10-28",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:0CcIFpY5CHuYXmkdjmnhBa"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7fviX0UFOMfEkJ6EjKSP16/clip_125000_187440.mp3",
+        "description": "Katee Sackhoff is an actor known for such roles as Kara \"Starbuck\" Thrace on \"Battlestar Galactica,\" Bo-Katan Kryze on \"The Mandalorian,\" and Vic Moretti on \"Longmire.\" In addition to her work on-screen, she hosts \"The Sackhoff Show\" podcast.www.kateesackhoff.comwww.youtube.com/@KateeSackhoffOfficialhttps://kidsvcancer.org/  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Katee Sackhoff is an actor known for such roles as Kara &#34;Starbuck&#34; Thrace on &#34;Battlestar Galactica,&#34; Bo-Katan Kryze on &#34;The Mandalorian,&#34; and Vic Moretti on &#34;Longmire.&#34; In addition to her work on-screen, she hosts &#34;The Sackhoff Show&#34; podcast.<br />www.kateesackhoff.com<br />www.youtube.com/&#64;KateeSackhoffOfficial<br /><a href=\"https://kidsvcancer.org/\" rel=\"nofollow\">https://kidsvcancer.org/</a></p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 9125759,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/63QOLiwC2jreGA6agfyBZa"
+        },
+        "href": "https://api.spotify.com/v1/episodes/63QOLiwC2jreGA6agfyBZa",
+        "id": "63QOLiwC2jreGA6agfyBZa",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8afeb8e3c4a675834422ca261d",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1ffeb8e3c4a675834422ca261d",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68dfeb8e3c4a675834422ca261d",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2400 - Katee Sackhoff",
+        "release_date": "2025-10-25",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:63QOLiwC2jreGA6agfyBZa"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1PzyDJDCOb4jlLynyKL3Hu/clip_41000_102600.mp3",
+        "description": "Daryl Davis is a blues musician, race relations expert, and author of several books, including \"The Klan Whisperer.\" Jeff Schoep led America's largest neo-Nazi organization, the National Socialist Movement, for nearly three decades before renouncing its ideology. He is the author of \"American Nazi: From Hate to Humanity.\"www.daryldavis.comwww.jeffschoep.com  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.  Don’t miss out on all the action - Download the DraftKings app today! Sign-up at https://dkng.co/rogan or with my promo code ROGAN.  GAMBLING PROBLEM? CALL 1-800-GAMBLER, (800) 327-5050 or visit gamblinghelplinema.org (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY). Please Gamble Responsibly. 888-789-7777/visit ccpg.org (CT), or visit www.mdgamblinghelp.org (MD). 21+ and present in most states. (18+ DC/KY/NH/WY). Void in NH/OR/ONT. Eligibility restrictions apply. Terms: draftkings.com/sportsbook. On behalf of Boot Hill Casino & Resort (KS). Fees may apply in IL. 1 per new customer. Must register new account to receive reward Token. Must select Token BEFORE placing min. $5 bet to receive $300 in Bonus Bets if your bet wins. Min. -500 odds req. Token and Bonus Bets are single-use and non-withdrawable. Token expires 11/23/25. Bonus Bets expire in 7 days (168 hours). Stake removed from payout. Terms: sportsbook.draftkings.com/promos. Ends 11/16/25 at 11:59 PM ET. Sponsored by DK.  This video is sponsored by BetterHelp. Visit https://BetterHelp.com/JRE Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Daryl Davis is a blues musician, race relations expert, and author of several books, including &#34;The Klan Whisperer.&#34; Jeff Schoep led America&#39;s largest neo-Nazi organization, the National Socialist Movement, for nearly three decades before renouncing its ideology. He is the author of &#34;American Nazi: From Hate to Humanity.&#34;<br />www.daryldavis.com<br />www.jeffschoep.com</p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p><br /></p><br/><p>Don’t miss out on all the action - Download the DraftKings app today! Sign-up at <a href=\"https://dkng.co/rogan\" rel=\"nofollow\">https://dkng.co/rogan</a> or with my promo code ROGAN.</p><br/><p><br /></p><br/><p>GAMBLING PROBLEM? CALL 1-800-GAMBLER, (800) 327-5050 or visit <a href=\"gamblinghelplinema.org\" rel=\"nofollow\">gamblinghelplinema.org</a> (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY). Please Gamble Responsibly. 888-789-7777/visit <a href=\"ccpg.org\" rel=\"nofollow\">ccpg.org</a> (CT), or visit <a href=\"www.mdgamblinghelp.org\" rel=\"nofollow\">www.mdgamblinghelp.org</a> (MD). 21&#43; and present in most states. (18&#43; DC/KY/NH/WY). Void in NH/OR/ONT. Eligibility restrictions apply. Terms: <a href=\"draftkings.com/sportsbook\" rel=\"nofollow\">draftkings.com/sportsbook</a>. On behalf of Boot Hill Casino &amp; Resort (KS). Fees may apply in IL. 1 per new customer. Must register new account to receive reward Token. Must select Token BEFORE placing min. $5 bet to receive $300 in Bonus Bets if your bet wins. Min. -500 odds req. Token and Bonus Bets are single-use and non-withdrawable. Token expires 11/23/25. Bonus Bets expire in 7 days (168 hours). Stake removed from payout. Terms: <a href=\"sportsbook.draftkings.com/promos\" rel=\"nofollow\">sportsbook.draftkings.com/promos</a>. Ends 11/16/25 at 11:59 PM ET. Sponsored by DK.</p><br/><p><br /></p><br/><p>This video is sponsored by BetterHelp. Visit <a href=\"https://BetterHelp.com/JRE\" rel=\"nofollow\">https://BetterHelp.com/JRE</a></p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 8237438,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/0uHILWQaIuG3IctzicIJEZ"
+        },
+        "href": "https://api.spotify.com/v1/episodes/0uHILWQaIuG3IctzicIJEZ",
+        "id": "0uHILWQaIuG3IctzicIJEZ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8ac04352f090a6d536a28a524d",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1fc04352f090a6d536a28a524d",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68dc04352f090a6d536a28a524d",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2399 - Daryl Davis & Jeff Schoep",
+        "release_date": "2025-10-23",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:0uHILWQaIuG3IctzicIJEZ"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/04cyfs5oj1a0CtvjxyjQg0/clip_116000_171000.mp3",
+        "description": "Francis Foster is a comic and author of \"Classroom Confidential: The Truth About Being a Teacher and Why You Should Never Become One.\" Konstantin Kisin is a political commentator and author of \"An Immigrant's Love Letter to the West.\" Together, they host the podcast \"Triggernometry.\"⁠www.francisfoster.co.uk⁠⁠www.konstantinkisin.com⁠⁠https://www.youtube.com/@triggerpod⁠  Perplexity: Download the app or ask Perplexity anything at ⁠https://pplx.ai/rogan⁠.  Get a free welcome kit with your first subscription of AG1 at ⁠https://drinkag1.com/joerogan⁠  Don’t miss out on all the action - Download the DraftKings app today! Sign-up at ⁠https://dkng.co/rogan⁠ or with my promo code ROGAN.  GAMBLING PROBLEM? CALL 1-800-GAMBLER, (800) 327-5050 or visit ⁠gamblinghelplinema.org⁠ (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY). Please Gamble Responsibly. 888-789-7777/visit ⁠ccpg.org⁠ (CT), or visit ⁠www.mdgamblinghelp.org⁠ (MD). 21+ and present in most states. (18+ DC/KY/NH/WY). Void in NH/OR/ONT. Eligibility restrictions apply. Terms: ⁠draftkings.com/sportsbook⁠. On behalf of Boot Hill Casino & Resort (KS). Fees may apply in IL. 1 per new customer. Must register new account to receive reward Token. Must select Token BEFORE placing min. $5 bet to receive $300 in Bonus Bets if your bet wins. Min. -500 odds req. Token and Bonus Bets are single-use and non-withdrawable. Token expires 11/23/25. Bonus Bets expire in 7 days (168 hours). Stake removed from payout. Terms: ⁠sportsbook.draftkings.com/promos⁠. Ends 11/16/25 at 11:59 PM ET. Sponsored by DK. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Francis Foster is a comic and author of &#34;Classroom Confidential: The Truth About Being a Teacher and Why You Should Never Become One.&#34; Konstantin Kisin is a political commentator and author of &#34;An Immigrant&#39;s Love Letter to the West.&#34; Together, they host the podcast &#34;Triggernometry.&#34;⁠www.francisfoster.co.uk⁠⁠www.konstantinkisin.com⁠<a href=\"https://www.youtube.com/&#64;triggerpod\" rel=\"nofollow\">⁠https://www.youtube.com/&#64;triggerpod⁠</a></p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">⁠https://pplx.ai/rogan⁠</a>.</p><br/><p><br /></p><br/><p>Get a free welcome kit with your first subscription of AG1 at <a href=\"https://drinkag1.com/joerogan\" rel=\"nofollow\">⁠https://drinkag1.com/joerogan⁠</a></p><br/><p><br /></p><br/><p>Don’t miss out on all the action - Download the DraftKings app today! Sign-up at <a href=\"https://dkng.co/rogan\" rel=\"nofollow\">⁠https://dkng.co/rogan⁠</a> or with my promo code ROGAN.</p><br/><p><br /></p><br/><p>GAMBLING PROBLEM? CALL 1-800-GAMBLER, (800) 327-5050 or visit <a href=\"gamblinghelplinema.org\" rel=\"nofollow\">⁠gamblinghelplinema.org⁠</a> (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY). Please Gamble Responsibly. 888-789-7777/visit <a href=\"ccpg.org\" rel=\"nofollow\">⁠ccpg.org⁠</a> (CT), or visit <a href=\"www.mdgamblinghelp.org\" rel=\"nofollow\">⁠www.mdgamblinghelp.org⁠</a> (MD). 21&#43; and present in most states. (18&#43; DC/KY/NH/WY). Void in NH/OR/ONT. Eligibility restrictions apply. Terms: <a href=\"draftkings.com/sportsbook\" rel=\"nofollow\">⁠draftkings.com/sportsbook⁠</a>. On behalf of Boot Hill Casino &amp; Resort (KS). Fees may apply in IL. 1 per new customer. Must register new account to receive reward Token. Must select Token BEFORE placing min. $5 bet to receive $300 in Bonus Bets if your bet wins. Min. -500 odds req. Token and Bonus Bets are single-use and non-withdrawable. Token expires 11/23/25. Bonus Bets expire in 7 days (168 hours). Stake removed from payout. Terms: <a href=\"sportsbook.draftkings.com/promos\" rel=\"nofollow\">⁠sportsbook.draftkings.com/promos⁠</a>. Ends 11/16/25 at 11:59 PM ET. Sponsored by DK.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 10627881,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/5syn5kT6byRvPTNHsSzQ9n"
+        },
+        "href": "https://api.spotify.com/v1/episodes/5syn5kT6byRvPTNHsSzQ9n",
+        "id": "5syn5kT6byRvPTNHsSzQ9n",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a261613c44291d1629b006619",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f261613c44291d1629b006619",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d261613c44291d1629b006619",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2398 - Francis Foster & Konstantin Kisin",
+        "release_date": "2025-10-22",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:5syn5kT6byRvPTNHsSzQ9n"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4yQLfglcbclR7DDY7SX9tS/clip_314000_374000.mp3",
+        "description": "Richard Lindzen, PhD, is Professor Emeritus of Earth, Atmospheric, and Planetary Sciences at the Massachusetts Institute of Technology. William Happer, PhD, is Professor Emeritus of Physics at Princeton University. Doctors Lindzen and Happer are recognized for questioning prevailing assumptions about climate change and energy policy.www.co2coalition.org  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.  Buy 1 Get 1 Free Trucker Hat with code ROGAN at https://happydad.com  Try ZipRecruiter FOR FREE at https://ziprecruiter.com/rogan  Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Richard Lindzen, PhD, is Professor Emeritus of Earth, Atmospheric, and Planetary Sciences at the Massachusetts Institute of Technology. William Happer, PhD, is Professor Emeritus of Physics at Princeton University. Doctors Lindzen and Happer are recognized for questioning prevailing assumptions about climate change and energy policy.<br />www.co2coalition.org</p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p><br /></p><br/><p>Buy 1 Get 1 Free Trucker Hat with code ROGAN at <a href=\"https://happydad.com\" rel=\"nofollow\">https://happydad.com</a></p><br/><p><br /></p><br/><p>Try ZipRecruiter FOR FREE at <a href=\"https://ziprecruiter.com/rogan\" rel=\"nofollow\">https://ziprecruiter.com/rogan</a></p><br/><p><br /></p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 7898025,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/3ihn2aHDz9dyZU0T3Kylk3"
+        },
+        "href": "https://api.spotify.com/v1/episodes/3ihn2aHDz9dyZU0T3Kylk3",
+        "id": "3ihn2aHDz9dyZU0T3Kylk3",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8ac95a588b1574eec68d6353d4",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1fc95a588b1574eec68d6353d4",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68dc95a588b1574eec68d6353d4",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2397 - Richard Lindzen & William Happer",
+        "release_date": "2025-10-21",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:3ihn2aHDz9dyZU0T3Kylk3"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5IOvrsCM4dio7ogzk9r4IB/clip_120000_180280.mp3",
+        "description": "Andrew Schulz is a stand-up comic, actor, and podcaster. He's the host of the \"Flagrant\" podcast with Akaash Singh, and the \"Brilliant Idiots\" podcast with Charlamagne Tha God.www.theandrewschulz.comhttps://www.youtube.com/theandrewschulz Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Andrew Schulz is a stand-up comic, actor, and podcaster. He&#39;s the host of the &#34;Flagrant&#34; podcast with Akaash Singh, and the &#34;Brilliant Idiots&#34; podcast with Charlamagne Tha God.<br />www.theandrewschulz.com<br /><a href=\"https://www.youtube.com/theandrewschulz\" rel=\"nofollow\">https://www.youtube.com/theandrewschulz</a></p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 12965759,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/4wcziMIN1hsPxDg7XfO0vw"
+        },
+        "href": "https://api.spotify.com/v1/episodes/4wcziMIN1hsPxDg7XfO0vw",
+        "id": "4wcziMIN1hsPxDg7XfO0vw",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a95a370c02f8a4ffe85f30854",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f95a370c02f8a4ffe85f30854",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d95a370c02f8a4ffe85f30854",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2396 - Andrew Schulz",
+        "release_date": "2025-10-18",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:4wcziMIN1hsPxDg7XfO0vw"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/09fnbCQj14vbPTYV83bXw6/clip_223000_282000.mp3",
+        "description": "Mariana van Zeller is the host and executive producer of National Geographic's \"Trafficked with Mariana van Zeller.\" Check out her new podcast \"The Hidden Third\" and also more content on her new YouTube channel. ⁠https://www.youtube.com/marianavanzeller⁠  Perplexity: Download the app or ask Perplexity anything at ⁠https://pplx.ai/rogan⁠.  50% off your first box at ⁠https://www.thefarmersdog.com/rogan⁠!  Buy 1 Get 1 Free Trucker Hat with code ROGAN at ⁠https://happydad.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Mariana van Zeller is the host and executive producer of National Geographic&#39;s &#34;Trafficked with Mariana van Zeller.&#34; Check out her new podcast &#34;The Hidden Third&#34; and also more content on her new YouTube channel.</p><br/><p><a href=\"https://www.youtube.com/marianavanzeller\" rel=\"nofollow\">⁠https://www.youtube.com/marianavanzeller⁠</a></p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">⁠https://pplx.ai/rogan⁠</a>.</p><br/><p><br /></p><br/><p>50% off your first box at <a href=\"https://www.thefarmersdog.com/rogan\" rel=\"nofollow\">⁠https://www.thefarmersdog.com/rogan⁠</a>!</p><br/><p><br /></p><br/><p>Buy 1 Get 1 Free Trucker Hat with code ROGAN at <a href=\"https://happydad.com\" rel=\"nofollow\">⁠https://happydad.com</a></p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 10191551,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/4BkLgSAk7PNCdsw3TFjLKr"
+        },
+        "href": "https://api.spotify.com/v1/episodes/4BkLgSAk7PNCdsw3TFjLKr",
+        "id": "4BkLgSAk7PNCdsw3TFjLKr",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8aeb031e606232430c97977cf1",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1feb031e606232430c97977cf1",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68deb031e606232430c97977cf1",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2395 - Mariana van Zeller",
+        "release_date": "2025-10-17",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 1000
+        },
+        "type": "episode",
+        "uri": "spotify:episode:4BkLgSAk7PNCdsw3TFjLKr"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2dguL0MdTyNulhxAbrmQQ0/clip_50000_110400.mp3",
+        "description": "Palmer Luckey is the founder of defense technology company Anduril Industries, designer of the Oculus Rift, a virtual reality head-mounted display, and the founder of Oculus VR, which was acquired by Facebook in 2014. www.anduril.com/profile/palmer-luckey  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.  50% off your first box at https://www.thefarmersdog.com/rogan!  This video is sponsored by BetterHelp. Visit https://BetterHelp.com/JRE Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Palmer Luckey is the founder of defense technology company Anduril Industries, designer of the Oculus Rift, a virtual reality head-mounted display, and the founder of Oculus VR, which was acquired by Facebook in 2014.</p><br/><p>www.anduril.com/profile/palmer-luckey</p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p><br /></p><br/><p>50% off your first box at <a href=\"https://www.thefarmersdog.com/rogan\" rel=\"nofollow\">https://www.thefarmersdog.com/rogan</a>!</p><br/><p><br /></p><br/><p>This video is sponsored by BetterHelp. Visit <a href=\"https://BetterHelp.com/JRE\" rel=\"nofollow\">https://BetterHelp.com/JRE</a></p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 11024318,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/5qLTZzOf0pVGygIykWXGcj"
+        },
+        "href": "https://api.spotify.com/v1/episodes/5qLTZzOf0pVGygIykWXGcj",
+        "id": "5qLTZzOf0pVGygIykWXGcj",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8aeee832bdd2674b67d43a907c",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1feee832bdd2674b67d43a907c",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68deee832bdd2674b67d43a907c",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2394 - Palmer Luckey",
+        "release_date": "2025-10-16",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:5qLTZzOf0pVGygIykWXGcj"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4wz2dQbf9i1t9b1Kzy2Bvo/clip_112000_158000.mp3",
+        "description": "Bryan Callen is a comedian and actor. He’s the host of the “Off Limits” podcast and co-host of “The Fighter and the Kid” with Brendan Schaub. Check out his new comedy special \"False Gods\" on YouTube now. www.bryancallen.comwww.youtube.com/@BryanCallenComedy  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.  Visible. Live in the know. Join today at https://www.visible.com/rogan  Take 50% off a SimpliSafe system at https://simplisafe.com/ROGAN Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Bryan Callen is a comedian and actor. He’s the host of the “Off Limits” podcast and co-host of “The Fighter and the Kid” with Brendan Schaub. Check out his new comedy special &#34;False Gods&#34; on YouTube now.</p><br/><p><br />www.bryancallen.com<br />www.youtube.com/&#64;BryanCallenComedy</p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p><br /></p><br/><p>Visible. Live in the know. Join today at <a href=\"https://www.visible.com/rogan\" rel=\"nofollow\">https://www.visible.com/rogan</a></p><br/><p><br /></p><br/><p>Take 50% off a SimpliSafe system at <a href=\"https://simplisafe.com/ROGAN\" rel=\"nofollow\">https://simplisafe.com/ROGAN</a></p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 10086911,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/1OdHwzEUGaJWftHWxLCKco"
+        },
+        "href": "https://api.spotify.com/v1/episodes/1OdHwzEUGaJWftHWxLCKco",
+        "id": "1OdHwzEUGaJWftHWxLCKco",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a45faaaeb829bd51dfe64652d",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f45faaaeb829bd51dfe64652d",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d45faaaeb829bd51dfe64652d",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2393 - Bryan Callen",
+        "release_date": "2025-10-15",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:1OdHwzEUGaJWftHWxLCKco"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2fSiPLqvWbWyjG8rovf2xX/clip_127000_194360.mp3",
+        "description": "John Kiriakou is a former CIA counter-terrorism officer and the first U.S. official to confirm the agency's torture of detainees. Punished for being a whistleblower, he served nearly 2 years in a federal prison. www.johnkiriakou.com  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan. Buy 1 Get 1 Free Trucker Hat with code ROGAN at https://happydad.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>John Kiriakou is a former CIA counter-terrorism officer and the first U.S. official to confirm the agency&#39;s torture of detainees. Punished for being a whistleblower, he served nearly 2 years in a federal prison. <br />www.johnkiriakou.com</p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p>Buy 1 Get 1 Free Trucker Hat with code ROGAN at <a href=\"https://happydad.com\" rel=\"nofollow\">https://happydad.com</a></p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 9065150,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/5SxOY0xVw8a2x6Ye0aWBQW"
+        },
+        "href": "https://api.spotify.com/v1/episodes/5SxOY0xVw8a2x6Ye0aWBQW",
+        "id": "5SxOY0xVw8a2x6Ye0aWBQW",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a7f701b672ab38d85da58b81b",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f7f701b672ab38d85da58b81b",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d7f701b672ab38d85da58b81b",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2392 - John Kiriakou",
+        "release_date": "2025-10-10",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:5SxOY0xVw8a2x6Ye0aWBQW"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1d1O1A1gWApVaXH26630ht/clip_190000_252160.mp3",
+        "description": "Duncan Trussell is a stand-up comic, host of the \"Duncan Trussell Family Hour\" podcast, and voice of \"Hippocampus\" on the television series \"Krapopolis.\"www.duncantrussell.comhttps://www.youtube.com/@duncantrussellfamilyhour  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.  Go to https://ExpressVPN.com/ROGAN to get 4 months free!  Try ZipRecruiter FOR FREE at https://ziprecruiter.com/rogan Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Duncan Trussell is a stand-up comic, host of the &#34;Duncan Trussell Family Hour&#34; podcast, and voice of &#34;Hippocampus&#34; on the television series &#34;Krapopolis.&#34;<br />www.duncantrussell.com<br /><a href=\"https://www.youtube.com/&#64;duncantrussellfamilyhour\" rel=\"nofollow\">https://www.youtube.com/&#64;duncantrussellfamilyhour</a></p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p><br /></p><br/><p>Go to <a href=\"https://ExpressVPN.com/ROGAN\" rel=\"nofollow\">https://ExpressVPN.com/ROGAN</a> to get 4 months free!</p><br/><p><br /></p><br/><p>Try ZipRecruiter FOR FREE at <a href=\"https://ziprecruiter.com/rogan\" rel=\"nofollow\">https://ziprecruiter.com/rogan</a></p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 9715711,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/1jcIa0WoUCwrG48jVmRqh7"
+        },
+        "href": "https://api.spotify.com/v1/episodes/1jcIa0WoUCwrG48jVmRqh7",
+        "id": "1jcIa0WoUCwrG48jVmRqh7",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8ae9ef3e2e36cc2c14ce4991dc",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1fe9ef3e2e36cc2c14ce4991dc",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68de9ef3e2e36cc2c14ce4991dc",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2391 - Duncan Trussell",
+        "release_date": "2025-10-09",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:1jcIa0WoUCwrG48jVmRqh7"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5ATPdQt8thUjhenNU2ih7q/clip_140000_203760.mp3",
+        "description": "Jack Carr is a bestselling author, retired Navy SEAL, and host of several podcasts, including “Danger Close.\" His newest book, \"Cry Havoc,” is available now.www.officialjackcarr.com https://www.youtube.com/@JackCarrUSA https://www.simonandschuster.com/books/Cry-Havoc/Jack-Carr/9781668095256  Visible. Live in the know. Join today at https://www.visible.com/rogan Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Jack Carr is a bestselling author, retired Navy SEAL, and host of several podcasts, including “Danger Close.&#34; His newest book, &#34;Cry Havoc,” is available now.<br />www.officialjackcarr.com</p><br/><p><a href=\"https://www.youtube.com/&#64;JackCarrUSA\" rel=\"nofollow\">https://www.youtube.com/&#64;JackCarrUSA</a></p><br/><p><a href=\"https://www.simonandschuster.com/books/Cry-Havoc/Jack-Carr/9781668095256\" rel=\"nofollow\">https://www.simonandschuster.com/books/Cry-Havoc/Jack-Carr/9781668095256</a></p><br/><p><br /></p><br/><p>Visible. Live in the know. Join today at <a href=\"https://www.visible.com/rogan\" rel=\"nofollow\">https://www.visible.com/rogan</a></p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 9212842,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/7oal0cDAb5ukbsdOJnMCEk"
+        },
+        "href": "https://api.spotify.com/v1/episodes/7oal0cDAb5ukbsdOJnMCEk",
+        "id": "7oal0cDAb5ukbsdOJnMCEk",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8af29b6192c2b1f0377045ef02",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1ff29b6192c2b1f0377045ef02",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68df29b6192c2b1f0377045ef02",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2390 - Jack Carr",
+        "release_date": "2025-10-08",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:7oal0cDAb5ukbsdOJnMCEk"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7EG7L59nc9wXh7B1cKafkM/clip_55000_117440.mp3",
+        "description": "Sal Vulcano is a stand-up comic and the co-creator, star, and executive producer of the comedy show “Impractical Jokers.\" He’s also the co-host of the podcasts “Hey Babe!” with Chris Distefano and “Taste Buds” with Joe DeRosa. Catch his latest special, “Terrified,” on HBO Max.www.salvulcanocomedy.comwww.youtube.com/@salvulcanoofficialhttps://www.hbomax.com/movies/sal-vulcano-terrified/587fe357-435e-449d-bf43-c5555fd1e009  Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.  Buy 1 Get 1 Free Trucker Hat with code ROGAN at happydad.com  This video is sponsored by BetterHelp. Visit https://BetterHelp.com/JRE Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Sal Vulcano is a stand-up comic and the co-creator, star, and executive producer of the comedy show “Impractical Jokers.&#34; He’s also the co-host of the podcasts “Hey Babe!” with Chris Distefano and “Taste Buds” with Joe DeRosa. Catch his latest special, “Terrified,” on HBO Max.<br />www.salvulcanocomedy.com<br />www.youtube.com/&#64;salvulcanoofficial<br /><a href=\"https://www.hbomax.com/movies/sal-vulcano-terrified/587fe357-435e-449d-bf43-c5555fd1e009\" rel=\"nofollow\">https://www.hbomax.com/movies/sal-vulcano-terrified/587fe357-435e-449d-bf43-c5555fd1e009</a></p><br/><p><br /></p><br/><p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\" rel=\"nofollow\">https://pplx.ai/rogan</a>.</p><br/><p><br /></p><br/><p>Buy 1 Get 1 Free Trucker Hat with code ROGAN at <a href=\"happydad.com\" rel=\"nofollow\">happydad.com</a></p><br/><p><br /></p><br/><p>This video is sponsored by BetterHelp. Visit <a href=\"https://BetterHelp.com/JRE\" rel=\"nofollow\">https://BetterHelp.com/JRE</a></p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 9921876,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/6YyzWg2Ty5TQpZZbEwc3jI"
+        },
+        "href": "https://api.spotify.com/v1/episodes/6YyzWg2Ty5TQpZZbEwc3jI",
+        "id": "6YyzWg2Ty5TQpZZbEwc3jI",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a374f99be8fe3bdb12b202bbe",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f374f99be8fe3bdb12b202bbe",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d374f99be8fe3bdb12b202bbe",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "#2389 - Sal Vulcano",
+        "release_date": "2025-10-07",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:6YyzWg2Ty5TQpZZbEwc3jI"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3NYayvhcwb7KiMvLuKPg8G/clip_98000_164720.mp3",
+        "description": "Joe sits down with Michael \"Venom\" Page, a professional mixed martial artist currently competing in the Welterweight and Middleweight divisions of the Ultimate Fighting Championship.www.ufc.com/athlete/michael-page  Get a free welcome kit with your first subscription of AG1 at https://drinkag1.com/joerogan  50% off your first box at https://www.thefarmersdog.com/rogan! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "html_description": "<p>Joe sits down with Michael &#34;Venom&#34; Page, a professional mixed martial artist currently competing in the Welterweight and Middleweight divisions of the Ultimate Fighting Championship.<br />www.ufc.com/athlete/michael-page</p><br/><p><br /></p><br/><p>Get a free welcome kit with your first subscription of AG1 at <a href=\"https://drinkag1.com/joerogan\" rel=\"nofollow\">https://drinkag1.com/joerogan</a></p><br/><p><br /></p><br/><p>50% off your first box at <a href=\"https://www.thefarmersdog.com/rogan\" rel=\"nofollow\">https://www.thefarmersdog.com/rogan</a>!</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+        "duration_ms": 9237503,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/1ctlVdHHUmYvPwIqBUDGBc"
+        },
+        "href": "https://api.spotify.com/v1/episodes/1ctlVdHHUmYvPwIqBUDGBc",
+        "id": "1ctlVdHHUmYvPwIqBUDGBc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a8f033c88002fa0ccef493569",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f8f033c88002fa0ccef493569",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d8f033c88002fa0ccef493569",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": [
+          "en"
+        ],
+        "name": "JRE MMA Show #170 with Michael \"Venom\" Page",
+        "release_date": "2025-10-03",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:1ctlVdHHUmYvPwIqBUDGBc"
+      }
+    ]
+  }
+}
