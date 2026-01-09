@@ -192,9 +192,15 @@ export default function BookmarkScreen() {
             <SourceBadge colors={colors} />
             <TypeBadge colors={colors} />
           </View>
-          <Text style={[styles.showName, { color: colors.textSecondary }]}>
-            {showName}
-          </Text>
+          <View style={styles.showNameRow}>
+            <Image
+              source={{ uri: showImage }}
+              style={styles.showThumbnail}
+            />
+            <Text style={[styles.showName, { color: colors.textSecondary }]}>
+              {showName}
+            </Text>
+          </View>
           <Text style={[styles.episodeTitle, { color: colors.text }]}>
             {episode.name}
           </Text>
@@ -347,9 +353,19 @@ const styles = StyleSheet.create({
     paddingHorizontal: Spacing.xl,
     marginBottom: Spacing['2xl'],
   },
+  showNameRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    marginBottom: Spacing.xs,
+  },
+  showThumbnail: {
+    width: 24,
+    height: 24,
+    borderRadius: Radius.full,
+    marginRight: Spacing.sm,
+  },
   showName: {
     ...Typography.labelLarge,
-    marginBottom: Spacing.xs,
   },
   episodeTitle: {
     ...Typography.headlineMedium,
