@@ -51,6 +51,9 @@ export const Colors = {
     // Interactive
     tint: brand.primary,
     tintLight: brand.primaryLight,
+    link: '#0066CC',
+    buttonPrimary: '#1A1A1A',
+    buttonPrimaryText: '#FFFFFF',
     icon: '#4A4A4A',
     iconMuted: '#C0C0C0',
 
@@ -84,6 +87,9 @@ export const Colors = {
     // Interactive
     tint: '#FFFFFF',
     tintLight: '#E0E0E0',
+    link: '#FFFFFF',
+    buttonPrimary: '#FFFFFF',
+    buttonPrimaryText: '#000000',
     icon: '#A0A0A0',
     iconMuted: '#4A4A4A',
 

@@ -9,7 +9,10 @@ import {
   Pressable,
   Image,
   Dimensions,
+  useWindowDimensions,
+  Linking,
 } from 'react-native';
+import RenderHtml from 'react-native-render-html';
 import Animated, { FadeIn, FadeInDown, FadeInUp } from 'react-native-reanimated';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
@@ -41,6 +44,7 @@ interface Episode {
   id: string;
   name: string;
   description: string;
+  html_description: string;
   duration_ms: number;
   release_date: string;
   images: { url: string; height: number; width: number }[];
@@ -124,15 +128,15 @@ function ActionButton({
       style={[
         styles.actionButton,
         isPrimary
-          ? { backgroundColor: colors.primary }
-          : { backgroundColor: colors.backgroundSecondary, borderWidth: 1, borderColor: colors.border },
+          ? { backgroundColor: colors.buttonPrimary }
+          : { backgroundColor: colors.backgroundSecondary },
       ]}
     >
       <View style={styles.actionButtonContent}>
         <Text
           style={[
             styles.actionButtonText,
-            { color: isPrimary ? '#FFFFFF' : colors.text },
+            { color: isPrimary ? colors.buttonPrimaryText : colors.text },
           ]}
         >
           {label}
@@ -141,11 +145,27 @@ function ActionButton({
           <Ionicons
             name={icon}
             size={16}
-            color={isPrimary ? '#FFFFFF' : colors.text}
+            color={isPrimary ? colors.buttonPrimaryText : colors.text}
             style={styles.actionButtonIcon}
           />
         )}
       </View>
+    </Pressable>
+  );
+}
+
+function IconActionButton({
+  icon,
+  colors,
+  onPress,
+}: {
+  icon: keyof typeof Ionicons.glyphMap;
+  colors: typeof Colors.light;
+  onPress?: () => void;
+}) {
+  return (
+    <Pressable onPress={onPress} style={styles.iconActionButton}>
+      <Ionicons name={icon} size={20} color={colors.textSecondary} />
     </Pressable>
   );
 }
@@ -159,6 +179,7 @@ export default function BookmarkScreen() {
   const colors = Colors[colorScheme ?? 'light'];
   const router = useRouter();
   const { fixtureId } = useLocalSearchParams<{ fixtureId: string }>();
+  const { width } = useWindowDimensions();
 
   // Get the fixture data based on route params, fallback to sharp-tech
   const podcastData = fixtures[fixtureId ?? 'sharp-tech'] ?? fixtures['sharp-tech'];
@@ -192,6 +213,9 @@ export default function BookmarkScreen() {
             <SourceBadge colors={colors} />
             <TypeBadge colors={colors} />
           </View>
+          <Text style={[styles.episodeTitle, { color: colors.text }]}>
+            {episode.name}
+          </Text>
           <View style={styles.showNameRow}>
             <Image
               source={{ uri: showImage }}
@@ -201,9 +225,6 @@ export default function BookmarkScreen() {
               {showName}
             </Text>
           </View>
-          <Text style={[styles.episodeTitle, { color: colors.text }]}>
-            {episode.name}
-          </Text>
           <View style={styles.metaRow}>
             <Text style={[styles.metaText, { color: colors.textTertiary }]}>
               {publisher}
@@ -229,14 +250,45 @@ export default function BookmarkScreen() {
           <ActionButton label="Add to Queue" variant="secondary" colors={colors} />
         </Animated.View>
 
+        {/* Icon Action Row */}
+        <Animated.View entering={FadeInDown.delay(350).duration(400)} style={styles.iconActionsContainer}>
+          <IconActionButton icon="pricetag-outline" colors={colors} />
+          <IconActionButton icon="add-circle-outline" colors={colors} />
+          <IconActionButton icon="share-outline" colors={colors} />
+          <IconActionButton icon="ellipsis-horizontal" colors={colors} />
+        </Animated.View>
+
         {/* Description */}
         <Animated.View entering={FadeInDown.delay(400).duration(400)} style={styles.descriptionContainer}>
           <Text style={[styles.sectionTitle, { color: colors.text }]}>
             About this episode
           </Text>
-          <Text style={[styles.description, { color: colors.textSecondary }]}>
-            {episode.description}
-          </Text>
+          <RenderHtml
+            contentWidth={width - Spacing.xl * 2}
+            source={{
+              html: episode.html_description
+                .replace(/<p><br\s*\/?><\/p>/gi, '') // Remove empty paragraphs
+                .replace(/<\/p>\s*<br\s*\/?>\s*<p>/gi, '</p><p>'), // Remove br between paragraphs
+            }}
+            baseStyle={{
+              ...Typography.bodyMedium,
+              color: colors.textSecondary,
+              lineHeight: 24,
+            }}
+            tagsStyles={{
+              a: { color: colors.link, textDecorationLine: 'underline' },
+              p: { margin: 0, marginTop: 0, marginBottom: 4 },
+              body: { margin: 0 },
+            }}
+            renderersProps={{
+              a: {
+                onPress: (_, href) => {
+                  const url = href.startsWith('http') ? href : `https://${href}`;
+                  Linking.openURL(url);
+                },
+              },
+            }}
+          />
         </Animated.View>
 
         {/* Bookmark Info Card */}
@@ -387,7 +439,7 @@ const styles = StyleSheet.create({
   actionsContainer: {
     flexDirection: 'row',
     gap: Spacing.md,
-    marginBottom: Spacing['3xl'],
+    marginBottom: Spacing.lg,
     paddingHorizontal: Spacing.xl,
   },
   actionButton: {
@@ -407,6 +459,22 @@ const styles = StyleSheet.create({
     marginLeft: Spacing.xs,
   },
 
+  // Icon Actions
+  iconActionsContainer: {
+    flexDirection: 'row',
+    justifyContent: 'flex-start',
+    gap: Spacing.md,
+    marginBottom: Spacing.xl,
+    paddingHorizontal: Spacing.xl,
+  },
+  iconActionButton: {
+    width: 44,
+    height: 44,
+    borderRadius: Radius.full,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+
   // Description
   descriptionContainer: {
     marginBottom: Spacing['3xl'],
@@ -414,7 +482,7 @@ const styles = StyleSheet.create({
   },
   sectionTitle: {
     ...Typography.titleLarge,
-    marginBottom: Spacing.md,
+    marginBottom: Spacing.sm,
   },
   description: {
     ...Typography.bodyMedium,
